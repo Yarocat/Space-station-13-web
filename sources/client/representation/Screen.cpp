@@ -1,0 +1,95 @@
+#include "Screen.h"
+
+#include <cassert>
+
+#include "Params.h"
+#include "qt/qtopengl.h"
+
+Screen::Screen(int x, int y)
+{
+    fail_ = true;
+    ResetScreen(x, y);
+    fail_ = false;
+}
+
+void Screen::PerformSizeUpdate()
+{
+    glViewport(0, 0, GetGLWidget()->width(), GetGLWidget()->height());
+}
+
+void Screen::ResetScreen(int x, int y)
+{
+    GetGLWidget()->resize(x, y);
+}
+
+void Screen::Clear()
+{
+    glClear(GL_COLOR_BUFFER_BIT);
+}
+
+void Screen::Draw(
+        const GLSprite* sprite_in,
+        int x, int y, int image_w_, int image_h_,
+        float angle, float transparency)
+{
+    if (sprite_in == nullptr)
+    {
+        return;
+    }
+
+    const GLSprite& sprite = *sprite_in;
+
+    glColor4f(1.0f, 1.0f, 1.0f, transparency);
+    glBindTexture(GL_TEXTURE_2D, sprite[image_h_][image_w_]);
+    if (glGetError())
+    {
+        qDebug() << glGetError();
+    }
+    glTranslatef(x + sprite.W() / 2.0f, y + sprite.H() / 2.0f, 0.0f);
+    glRotatef(angle, 0.0f, 0.0f, 1.0f);
+    glTranslatef(-1 * x - sprite.W() / 2.0f, -1 * y - sprite.H() / 2.0f, 0.0f); 
+
+    glBegin(GL_QUADS);
+        glTexCoord2f(0.0, 1.0);     glVertex3f(static_cast<float>(x),              static_cast<float>(y), 0.0f);
+        glTexCoord2f(0.0, 0.0);     glVertex3f(static_cast<float>(x),              static_cast<float>(y + sprite.H()), 0.0f);
+        glTexCoord2f(1.0, 0.0);     glVertex3f(static_cast<float>(x + sprite.W()), static_cast<float>(y + sprite.H()), 0.0f);
+        glTexCoord2f(1.0, 1.0);     glVertex3f(static_cast<float>(x + sprite.W()), static_cast<float>(y), 0.0f);
+    glEnd();
+    glLoadIdentity();
+
+    if (glGetError())
+    {
+        qDebug() << glGetError();
+    }
+
+}
+
+int Screen::GetWidth()
+{
+    return GetGLWidget()->width();
+}
+int Screen::GetHeight()
+{
+    return GetGLWidget()->height();
+}
+
+namespace
+{
+
+Screen* screen = nullptr;
+
+}
+
+void SetScreen(Screen* scr)
+{
+    screen = scr;
+}
+Screen& GetScreen()
+{
+    return *screen;
+}
+
+bool IsScreenValid()
+{
+    return screen != nullptr;
+}

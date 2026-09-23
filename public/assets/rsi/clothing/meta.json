@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Goob Station Contributors",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    { "name": "engineuniform", "directions": 4 },
+    { "name": "secuniform", "directions": 4 },
+    { "name": "meduniform", "directions": 4 },
+    { "name": "sciuniform", "directions": 4 },
+    { "name": "cmduniform", "directions": 4 },
+    { "name": "captainuniform", "directions": 4 },
+    { "name": "baruniform", "directions": 4 },
+    { "name": "armor", "directions": 4 },
+    { "name": "spacesuit", "directions": 4 },
+    { "name": "firesuit", "directions": 4 }
+  ]
+}

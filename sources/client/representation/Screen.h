@@ -1,0 +1,43 @@
+#pragma once
+
+#include "GLSprite.h"
+
+const int AREA_SIZE_W = 512; // visible OpenGL area in pixels
+const int AREA_SIZE_H = 512;
+
+class Screen
+{
+public:
+    Screen(int x, int y);
+    void Draw(const GLSprite* sprite,
+              int x, int y, int image_w_, int image_h_,
+              float angle = 0.0f, float transparency = 1.0f);
+    void ResetScreen(int x, int y);
+    void Clear();
+    bool Fail();
+
+    void PerformSizeUpdate();
+
+    void NormalizePixels(int* x, int* y)
+    {
+        *x = static_cast<int>
+            (  static_cast<float>(*x)
+            * (  static_cast<float>(AREA_SIZE_W)
+               / static_cast<float>(GetWidth())
+               ));
+        *y = static_cast<int>
+            (  static_cast<float>(*y)
+            * (  static_cast<float>(AREA_SIZE_H)
+               / static_cast<float>(GetHeight())
+               ));
+    }
+
+    int GetWidth();
+    int GetHeight();
+private:
+    bool fail_;
+};
+
+bool IsScreenValid();
+Screen& GetScreen();
+void SetScreen(Screen* scr);

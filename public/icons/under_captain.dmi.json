@@ -1,0 +1,35 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "captain",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "captain_skirt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "captain_parade",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "1.2,1.2,1.2,1.2"
+    },
+    {
+      "state": "caproyal",
+      "dirs": 1,
+      "frames": 1
+    }
+  ]
+}

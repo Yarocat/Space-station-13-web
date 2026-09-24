@@ -1,0 +1,1563 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "357OLD-0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "357OLD-1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "357OLD-2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "357OLD-3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "357OLD-4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "357OLD-5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "357OLD-6",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "357OLD-7",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "gshell",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "gshell-live",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bshell",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bshell-live",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "breacher",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "breacher-live",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rshell",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rshell-live",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "blshell",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "blshell-live",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "stunshell",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "stunshell-live",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cshell",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cshell-live",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ishell",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ishell-live",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ishell2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ishell2-live",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tshell",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "flechette",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "flechette-live",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "flechette_donk",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "flechette_donk-live",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "mshell",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "mshell-live",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pshell",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pshell-live",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "heshell",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "heshell-live",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ionshell",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ionshell-live",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lshell",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lshell-live",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "improvshell",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "improvshell-live",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bountyshell",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bountyshell-live",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "+357_ammo_band",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "357",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "357-0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "357-1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "357-2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "357-3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "357-4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "357-5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "357-6",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "357-7",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "45-8",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "45-7",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "45-6",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "45-5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "45-4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "45-3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "45-2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "45-1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "45-0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "9mmaps-15",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "+9mmapsab",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "9mmaps-10",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "9mmaps-5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "9mmaps-0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "50ae",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "50ae-8",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "50ae-7",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "50ae-6",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "50ae-5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "50ae-4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "50ae-3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "50ae-2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "50ae-1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "50ae-0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "r45-8",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "r45-7",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "r45-6",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "r45-5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "r45-4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "r45-3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "r45-2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "r45-1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "r45-0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "9x19p",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "9x19p-full",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "9x19p-empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "+9x19ab",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "smg9mm",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "smg9mm-full",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "smg9mm-empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "s-casing",
+      "dirs": 8,
+      "frames": 1
+    },
+    {
+      "state": "s-casing-live",
+      "dirs": 8,
+      "frames": 1
+    },
+    {
+      "state": "sS-casing",
+      "dirs": 8,
+      "frames": 1
+    },
+    {
+      "state": "sS-casing-live",
+      "dirs": 8,
+      "frames": 1
+    },
+    {
+      "state": "sL-casing",
+      "dirs": 8,
+      "frames": 1
+    },
+    {
+      "state": "sL-casing-live",
+      "dirs": 8,
+      "frames": 1
+    },
+    {
+      "state": "40mmHE",
+      "dirs": 8,
+      "frames": 1
+    },
+    {
+      "state": "40mmHE-live",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "40mm",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "40mm-0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "40mm-1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "40mm-2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "40mm-3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "40mm-4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "9mmbox",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "45box",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "10mmbox",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "+c20rab",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-toy",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-riot",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-24",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-22",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-20",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-18",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-16",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-14",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-12",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-10",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-8",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-6",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-toy-base",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-riot-base",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-foam-blue-24",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-foam-blue-22",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-foam-blue-20",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-foam-blue-18",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-foam-blue-16",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-foam-blue-14",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-foam-blue-12",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-foam-blue-10",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-foam-blue-8",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-foam-blue-6",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-foam-blue-4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-foam-blue-2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-foam-red-24",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-foam-red-22",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-foam-red-20",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-foam-red-18",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-foam-red-16",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-foam-red-14",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-foam-red-12",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-foam-red-10",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-foam-red-8",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-foam-red-6",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-foam-red-4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r45-foam-red-2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "75",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "75-empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "75-full",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "a7mm-toy",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "a7mm-riot",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "a7mm",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "+a7mmab",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "a7mm-50",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "a7mm-40",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "a7mm-30",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "a7mm-20",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "a7mm-10",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "a7mm-0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "+38_ammo_band",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "38-base",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "38",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "38-0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "38-lead-1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "38-lead-2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "38-lead-3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "38-lead-4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "38-lead-5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "38-lead-6",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "38-laser-1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "38-laser-2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "38-laser-3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "38-laser-4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "38-laser-5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "38-laser-6",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "drum45",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m12gb",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m12gb-8",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m12gb-0",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "m12gsl",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m12gsl-8",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m12gsl-0",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "m12gs",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m12gs-8",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m12gs-0",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "m12gf",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m12gf-8",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m12gf-0",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "m12gbc",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m12gbc-8",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m12gbc-0",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "m12gt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m12gt-8",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m12gt-0",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "m12gfl",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m12gfl-8",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m12gfl-0",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "m12gd",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m12gd-8",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m12gd-0",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": ".223",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "+.223ab",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": ".223-full",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": ".223-empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "310_strip",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "310_strip-5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "310_strip-4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "310_strip-3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "310_strip-2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "310_strip-1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "310_strip-0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lionhunter_strip",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lionhunter_strip-3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lionhunter_strip-2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lionhunter_strip-1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lionhunter_strip-0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "223-casing-live",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "223-casing",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "762-casing-live",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "762-casing",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "magspear",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "magspear-live",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "uzi9mm",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "uzi9mm-32",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "uzi9mm-28",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "uzi9mm-24",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "uzi9mm-20",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "uzi9mm-16",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "uzi9mm-12",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "uzi9mm-8",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "uzi9mm-4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "uzi9mm-0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "oldrifle",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "oldrifle-32",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "oldrifle-20",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "oldrifle-16",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "oldrifle-12",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "oldrifle-8",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "oldrifle-4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "oldrifle-0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "46x30mmt-20",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "46x30mmt-16",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "46x30mmt-12",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "46x30mmt-8",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "46x30mmt-4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "46x30mmt-0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "46x30mmt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "+46x30mmab",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": ".50mag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": ".50mag-ammo",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "surplus",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "surplus-ammo",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "disruptor",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "disruptor-ammo",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "marksman",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "marksman-ammo",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "penetrator",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "penetrator-ammo",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "incendiary",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "incendiary-ammo",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": ".50-live",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": ".50",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": ".50disruptor-live",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": ".50disruptor",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cnrshell-live",
+      "dirs": 1,
+      "frames": 8,
+      "delay": "0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5"
+    },
+    {
+      "state": "cnrshell",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "310-casing-live",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "310-casing",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rod_sharp",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rod_jagged",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rod_zaukerite",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rod_supermatter",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rod_healium",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rod_hydrogen",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "srm-8",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "84mm-heap",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "low_yield_rocket",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rocketbundle",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rocketbundle-3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rocketbundle-2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rocketbundle-1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rocketbundle-0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "paperball",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "smartgun_casing-live",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "smartgun_casing",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "smartgun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "smartgun-empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "smartgun-full",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "canister_shot",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pea-live",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pea",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "38mag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "38mag-ammo",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "+38mag_ammo_band",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "napad_mag-full",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "napad_mag-empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "napad_mag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "40mm-shell",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "40mm-shell-live",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "r10mm-8",
+      "dirs": 1,
+      "frames": 1
+    }
+  ]
+}

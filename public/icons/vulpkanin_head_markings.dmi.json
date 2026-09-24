@@ -1,0 +1,49 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "nose_alt_s",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "tiger_head_s",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "tiger_face_s",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "nose_s",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "muzzle_s",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "muzzle_ear_s",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "points_fade_s",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "points_sharp_s",
+      "dirs": 4,
+      "frames": 1
+    }
+  ]
+}

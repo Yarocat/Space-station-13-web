@@ -1,0 +1,851 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "welder",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "welder100",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "welder75",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "welder50",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "welder25",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "welder0",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "2,4"
+    },
+    {
+      "state": "welder-on",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "indwelder",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "indwelder100",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "indwelder75",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "indwelder50",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "indwelder25",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "indwelder0",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "2,2"
+    },
+    {
+      "state": "indwelder-on",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "miniwelder",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "miniwelder-on",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "2,1"
+    },
+    {
+      "state": "upindwelder",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "upindwelder100",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "upindwelder75",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "upindwelder50",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "upindwelder25",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "upindwelder0",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "upindwelder-on",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "exwelder",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "1,1,1,1"
+    },
+    {
+      "state": "exwelder-on",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "screwdriver",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "screwdriver_screwybits",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "screwdriver_caravan",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "screwdriver_brass",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "wrench",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "wrench_combat",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "wrench_combat_on",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,2"
+    },
+    {
+      "state": "wrench_medical",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "wrench_brass",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "wrench_caravan",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bolter_wrench",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "crowbar",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "crowbar_red",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "crowbar_large",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "crowbar_brass",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "crowbar_caravan",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "crowbar_powergame",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plumberer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rpd",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "brasswelder",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "brasswelder-on",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "2,1"
+    },
+    {
+      "state": "drill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "drill_on",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jaws_on",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jaws",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jaws_syndie_on",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jaws_syndie",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jaws_paramedic",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jaws_paramedic_on",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rcdammo",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rcd",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rsf",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rcd_empty",
+      "dirs": 1,
+      "frames": 3,
+      "delay": "3,3,3"
+    },
+    {
+      "state": "rsf_empty",
+      "dirs": 1,
+      "frames": 3,
+      "delay": "3,3,3"
+    },
+    {
+      "state": "plumberer2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plumberer_service",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rcd_charge1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rcd_charge2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rcd_charge3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rcd_charge4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rcd_charge5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rcd_charge6",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rcd_charge7",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rcd_charge8",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rcd_charge9",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rcd_charge10",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ircd",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ircd_empty",
+      "dirs": 1,
+      "frames": 3,
+      "delay": "3,3,3"
+    },
+    {
+      "state": "ircd_charge1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ircd_charge2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ircd_charge3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ircd_charge4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ircd_charge5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ircd_charge6",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ircd_charge7",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ircd_charge8",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ircd_charge9",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ircd_charge10",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cercd_charge1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cercd_charge2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cercd_charge3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cercd_charge4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cercd_charge5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cercd_charge6",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cercd_charge7",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cercd_charge8",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cercd_charge9",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cercd_charge10",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "arcd",
+      "dirs": 1,
+      "frames": 7,
+      "delay": "1,1,1,1,1,1,1"
+    },
+    {
+      "state": "cercd",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "inducer-sci",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "inducer-engi",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "inducer-syndi",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "inducer-bat",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "inducer-nobat",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rcl-0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rcl-10",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rcl-20",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rcl-30",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rclg-0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rclg-1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cutters_cutty_thingy",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cutters",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plumberer_sci",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cutters_map",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cutters_brass",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cutters_caravan",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "construction_bag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bananium_inspector",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "wirebrush",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rtd_charge10",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rtd_charge9",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rtd_charge8",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rtd_charge7",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rtd_charge6",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rtd_charge5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rtd_charge4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rtd_charge3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rtd_charge2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rtd_charge1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rwd-10-layer2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rwd-20-layer2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rwd-30-layer2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rwd-10-layer1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rwd-20-layer1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rwd-30-layer1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rwd-10-layer4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rwd-20-layer4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rwd-30-layer4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rld_charge6",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rld_charge5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rld_charge4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rld_charge3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rld_charge2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rld_charge1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rld",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rld_empty",
+      "dirs": 1,
+      "frames": 3,
+      "delay": "3,3,3"
+    },
+    {
+      "state": "rtd",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rtd_empty",
+      "dirs": 1,
+      "frames": 3,
+      "delay": "3,3,3"
+    },
+    {
+      "state": "spess_knife",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "spess_knife_knife",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "spess_knife_screwdriver",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "spess_knife_cutters",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "spess_knife_wrench",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "spess_knife_shovel",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "spess_knife_saw",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "spess_knife_rollingpin",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "boxcutter",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "boxcutter_on",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "miniFE0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "miniFE1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "fire_extinguisher1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "fire_extinguisher0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "foam_extinguisher1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "foam_extinguisher0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "coolant1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "coolant0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bear_armor_upgrade",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rdd",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rdd_empty",
+      "dirs": 1,
+      "frames": 1
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "applebush",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-01",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-02",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-03",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-04",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-05",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-06",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-07",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-08",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-09",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-10",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-11",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-12",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-13",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-14",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-15",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-16",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-17",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-18",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-19",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-20",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-21",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-22",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-23",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-24",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-25",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-26",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-27",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-28",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plant-29",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "potty_light",
+      "dirs": 1,
+      "frames": 3,
+      "delay": "1,1,1"
+    },
+    {
+      "state": "potty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "fern",
+      "dirs": 1,
+      "frames": 1
+    }
+  ]
+}

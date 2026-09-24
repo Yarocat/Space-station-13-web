@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Goob Station & Space Station 14 Contributors",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    { "name": "vulpakanin_torso", "directions": 4 },
+    { "name": "vulpakanin_head", "directions": 4 },
+    { "name": "vulpakanin_ears", "directions": 4 },
+    { "name": "vulpakanin_tail", "directions": 4 },
+    { "name": "vulpakanin_snout", "directions": 4 }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "scrubsblue",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "scrubsblack",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "scrubsgreen",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "scrubswine",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "scrubscmo",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "medical",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "medical_skirt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cmo",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cmo_skirt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cmoturtle",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cmoturtle_skirt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "virology",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "virologywhite_skirt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "chemistry",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "chemistrywhite_skirt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "paramedic",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "paramedic_skirt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "nursesuit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "1.2,1.2,1.2,1.2"
+    },
+    {
+      "state": "coroner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "coroner_skirt",
+      "dirs": 1,
+      "frames": 1
+    }
+  ]
+}

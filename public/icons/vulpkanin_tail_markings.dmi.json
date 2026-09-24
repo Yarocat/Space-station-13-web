@@ -1,0 +1,75 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "default_tip_s",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "default_tipw_s",
+      "dirs": 4,
+      "frames": 9,
+      "delay": "2,2,2,2,2,2,2,2,2"
+    },
+    {
+      "state": "default_fade_s",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "default_fadew_s",
+      "dirs": 4,
+      "frames": 9,
+      "delay": "2,2,2,2,2,2,2,2,2"
+    },
+    {
+      "state": "bushfluff_s",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "bushfluffw_s",
+      "dirs": 4,
+      "frames": 8,
+      "delay": "2,2,2,2,2,2,2,2"
+    },
+    {
+      "state": "sbtip_s",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "sbtipw_s",
+      "dirs": 4,
+      "frames": 9,
+      "delay": "2,2,2,2,2,2,2,2,2"
+    },
+    {
+      "state": "sbfade_s",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "sbfadew_s",
+      "dirs": 4,
+      "frames": 9,
+      "delay": "2,2,2,2,2,2,2,2,2"
+    },
+    {
+      "state": "sbsilverfade_s",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "sbsilverfadew_s",
+      "dirs": 4,
+      "frames": 9,
+      "delay": "2,2,2,2,2,2,2,2,2"
+    }
+  ]
+}

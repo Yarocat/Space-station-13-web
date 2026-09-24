@@ -1,0 +1,109 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "pillow_suit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pillowcase_hat",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pillow_1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pillow_1_t",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pillow_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pillow_2_t",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pillow_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pillow_3_t",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pillow_4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pillow_4_t",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pillow_5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pillow_5_t",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pillow_6",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pillow_6_t",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pillow_tag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "dogbed",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bed_double",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "abed",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "bed",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "dirty_mattress",
+      "dirs": 1,
+      "frames": 1
+    }
+  ]
+}

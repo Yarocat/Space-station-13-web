@@ -1,0 +1,160 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "rsecurity",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "secskirt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rwarden",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rwarden_skirt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rhos",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rhos_skirt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hosalt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hosalt_skirt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hos_parade_male",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hos_parade_fem",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "blueshift",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "security",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "warden",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hos",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "officerblueclothes",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "officertanclothes",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "wardenblueclothes",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "wardentanclothes",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hosblueclothes",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hostanclothes",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "detective",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "detective_skirt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "noirdet",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "noirdet_skirt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "spacepol",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "constable",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "spacepolice_families",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jamrock_suit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "aerostatic_suit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "1.2,1.2,1.2,1.2"
+    }
+  ]
+}

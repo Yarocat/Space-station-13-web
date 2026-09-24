@@ -1,0 +1,244 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "reinforced_wall-0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-6",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-7",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-8",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-9",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-10",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-11",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-12",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-13",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-14",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-15",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-21",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-23",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-29",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-31",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-38",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-39",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-46",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-47",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-55",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-63",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-74",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-75",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-78",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-79",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-95",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-110",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-111",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-127",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-137",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-139",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-141",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-143",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-157",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-159",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-175",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-191",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-203",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-207",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-223",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-239",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_wall-255",
+      "dirs": 1,
+      "frames": 1
+    }
+  ]
+}

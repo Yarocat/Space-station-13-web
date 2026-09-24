@@ -1,0 +1,1059 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_edge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_half",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_corner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_large",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_small",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_diagonal",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_herringbone",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_dark",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_dark_edge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_dark_half",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_dark_corner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_dark_large",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_dark_small",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_dark_diagonal",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_dark_herringbone",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_checker",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_darkside",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_darkcorner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_white",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_white_edge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_white_half",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_white_corner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_white_large",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_white_small",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_white_diagonal",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_white_herringbone",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_cafeteria",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_whiteside",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_whitecorner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_textured",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_textured_edge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_textured_half",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_textured_corner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_textured_large",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_textured_dark",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_textured_dark_edge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_textured_dark_half",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_textured_dark_corner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_textured_dark_large",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_textured_white",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_textured_white_edge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_textured_white_half",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_textured_white_corner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_textured_white_large",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_smooth",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_smooth_edge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_smooth_half",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_smooth_corner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_smooth_large",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_recharge",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "6,6"
+    },
+    {
+      "state": "tile_terracotta",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_terracotta_small",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_terracotta_diagonal",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_terracotta_herringbone",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_kitchen",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_kitchen_small",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_kitchen_diagonal",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_kitchen_herringbone",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_chapel",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_showroom",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_solarpanel",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_freezer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_freezer_edge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_freezer_half",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_freezer_corner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_freezer_large",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_grimy",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_bluespace",
+      "dirs": 1,
+      "frames": 16,
+      "delay": "1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "tile_sepia",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_plaque",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_vaporwave",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_grass",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_hay",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_fairygrass",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile-carpet",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile-carpet-symbol",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile-carpet-star",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile-wood",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile-wood_parquet",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile-wood_tile",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile-wood_large",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_plasma",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_uranium",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_silver",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_bananium",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_diamond",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_noslip",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_space",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "glass_wire",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_e",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_cult",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_reebe",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_brass",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_brass_filled",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_gold",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_bcircuit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_gcircuit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_rcircuit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_basalt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile-carpet-black",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_pit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_plastic",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_snow",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile-carpet-blue",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile-carpet-cyan",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile-carpet-green",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile-carpet-orange",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile-carpet-purple",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile-carpet-red",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile-carpet-royalblack",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile-carpet-royalblue",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "material_tile",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_eighties",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_eightiesred",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_titanium",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_titanium_yellow",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_titanium_blue",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_titanium_white",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_titanium_purple",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_titanium_tiled",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_titanium_tiled_yellow",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_titanium_tiled_blue",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_titanium_tiled_white",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_titanium_tiled_purple",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_plastitanium",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_plastitanium_red",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_pod",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_poddark",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_podlight",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_pod_red",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_podlight_red",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_carpet_executive",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_carpet_stellar",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_carpet_donk",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile-error",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_carpet_neon_simple",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_carpet_neon_simple_nodots",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_carpet_neon_simple_glow",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_carpet_neon_simple_glow_nodots",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_carpet_neon_simple_light",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_carpet_neon_simple_light_nodots",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "maint_catwalk",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "iron_catwalk",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "whiteiron_catwalk",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "darkiron_catwalk",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "titanium_catwalk",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "smoothiron_catwalk",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "darkiron_plate",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_glass",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_glass_plastitanium",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_glass_titanium",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_glass_bronze",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_glass_runic",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_rglass",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_pglass",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_rpglass",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_bamboo",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_ice",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_tatami_purple",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_tatami_green",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_tatami_black",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_tram_light",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_tram_dark",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_plastic_puzzle",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_white_recharge",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "6,6"
+    },
+    {
+      "state": "tile_dark_recharge",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "6,6"
+    },
+    {
+      "state": "tile_smooth_recharge",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "6,6"
+    },
+    {
+      "state": "tile_bamboo_planks",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_plasma_tiled",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_uranium_tiled",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_bananium_tiled",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_diamond_tiled",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_silver_tiled",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_silver_moon",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sandstone_floor",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "stone_floor",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_gold_tiled",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_gold_sun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_bluespacecrystal",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_bluespacecrystal_tiled",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_telecrystal",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_telecrystal_tiled",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_adamantine",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_adamantine_tiled",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_metal_hydrogen",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_metal_hydrogen_tiled",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_hauntium",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_hauntium_tiled",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_runite",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_runite_tiled",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_mythril",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_mythril_tiled",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_carpet_bear",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_carpet_bear_polar",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_carpet_moth",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_carpet_carp",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_carpet_lizard",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_carpet_skin",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_carpet_goliath",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_sglass_black",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_sglass_blue",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_sglass_green",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_sglass_orange",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_sglass_purple",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_sglass_red",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_sglass_white",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_sglass_yellow",
+      "dirs": 1,
+      "frames": 1
+    }
+  ]
+}

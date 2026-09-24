@@ -1,0 +1,14 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "ears_plain_s",
+      "dirs": 4,
+      "frames": 1
+    }
+  ]
+}

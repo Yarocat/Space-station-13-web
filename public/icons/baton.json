@@ -1,0 +1,133 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "telebaton",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "telebaton_on",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "telebaton_bronze",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "telebaton_bronze_on",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "telebaton_silver",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "telebaton_silver_on",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "telebaton_gold",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "telebaton_gold_on",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "contractor_baton",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "contractor_baton_on",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "1,1,1,1"
+    },
+    {
+      "state": "classic_baton",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "stunbaton_active",
+      "dirs": 1,
+      "frames": 7,
+      "delay": "14,2,2,2,2,2,1"
+    },
+    {
+      "state": "stunbaton",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "stunbaton_nocell",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "nunchaku",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "nunchaku_y",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "nunchaku_x",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "stunsword_active",
+      "dirs": 1,
+      "frames": 6,
+      "delay": "14,1,1,1,1,1"
+    },
+    {
+      "state": "stunsword",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "stunsword_nocell",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "stunsword_energy_active",
+      "dirs": 1,
+      "frames": 6,
+      "delay": "14,2,1,1,1,1"
+    },
+    {
+      "state": "stunsword_energy",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "stunsword_energy_nocell",
+      "dirs": 1,
+      "frames": 1
+    }
+  ]
+}

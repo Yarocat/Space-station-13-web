@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Goob Station & Space Station 14 Contributors",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    { "name": "human_torso", "directions": 4 },
+    { "name": "human_head", "directions": 4 }
+  ]
+}

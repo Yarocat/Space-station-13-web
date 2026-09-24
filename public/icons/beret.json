@@ -1,0 +1,34 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "badge_worn",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "beret_worn",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "beret",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "beret_flat",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "badge",
+      "dirs": 1,
+      "frames": 1
+    }
+  ]
+}

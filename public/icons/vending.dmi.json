@@ -1,0 +1,1536 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "panel1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "panel2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "panel3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "panel4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "panel5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "panel6",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "panel7",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "panel8",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "panel9",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "panel10",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "panel11",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "panel12",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "panel14",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "panel15",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "panel16",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "panel17",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "panel18",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "panel-wall",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "panel19",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "panel20",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "panel21",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "panel22",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "random_snack",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "snack",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "10,1,4,1"
+    },
+    {
+      "state": "snack-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "snack-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "snack-light-mask",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "10,1,4,1"
+    },
+    {
+      "state": "snackblue",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "15,1,5,1"
+    },
+    {
+      "state": "snackblue-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "snackblue-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "snackorange",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "43,1,3,1"
+    },
+    {
+      "state": "snackorange-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "snackorange-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "snackgreen",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "17,1,3,1"
+    },
+    {
+      "state": "snackgreen-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "snackgreen-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "snackteal",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "24,1,1,1"
+    },
+    {
+      "state": "snackteal-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "snackteal-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sustenance",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "40,1,5,1"
+    },
+    {
+      "state": "sustenance-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sustenance-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sustenance_labor",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "40,1,5,1"
+    },
+    {
+      "state": "sustenance_labor-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sustenance_labor-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "dinnerware-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "dinnerware",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "12,1,1,1"
+    },
+    {
+      "state": "dinnerware-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "dinnerware-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cigs-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cigs",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "36,1,1,1"
+    },
+    {
+      "state": "cigs-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cigs-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "generic-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "generic",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "33,1,4,1"
+    },
+    {
+      "state": "generic-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "generic-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sec-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sec",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "37,1,4,1"
+    },
+    {
+      "state": "sec-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sec-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sec-deny",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "nutri-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "nutri",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "11,1,4,1"
+    },
+    {
+      "state": "nutri-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "nutri-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "nutri_deny",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "seeds-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "seeds",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "39,1,3,1"
+    },
+    {
+      "state": "seeds-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "seeds-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "random_cola",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cola-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "Cola_Machine",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "30,1,5,1"
+    },
+    {
+      "state": "Cola_Machine-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "Cola_Machine-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cola_black",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "36,1,3,1"
+    },
+    {
+      "state": "cola_black-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cola_black-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "shamblers-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "shamblers_juice",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "50,1,5,1"
+    },
+    {
+      "state": "shamblers_juice-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "shamblers_juice-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "red_cola-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "red_cola",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "16,1,1,1"
+    },
+    {
+      "state": "red_cola-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "red_cola-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "space_up-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "space_up",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "12,1,5,1"
+    },
+    {
+      "state": "space_up-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "space_up-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pwr_game-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pwr_game",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "14,1,5,1"
+    },
+    {
+      "state": "pwr_game-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pwr_game-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "starkist-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "starkist",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "49,1,1,1"
+    },
+    {
+      "state": "starkist-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "starkist-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "soda-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "soda",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "40,1,5,1"
+    },
+    {
+      "state": "soda-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "soda-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "soviet-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sovietsoda",
+      "dirs": 1,
+      "frames": 8,
+      "delay": "3,1,1,2,1,3,1,2"
+    },
+    {
+      "state": "sovietsoda-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sovietsoda-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "coffee-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "coffee",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "25,1,2,1"
+    },
+    {
+      "state": "coffee-vend",
+      "dirs": 1,
+      "frames": 6,
+      "delay": "1,4,20,2,1,1"
+    },
+    {
+      "state": "coffee-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "coffee-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "boozeomat-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "boozeomat",
+      "dirs": 1,
+      "frames": 8,
+      "delay": "2,2,2,2,2,2,2,2"
+    },
+    {
+      "state": "boozeomat-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "boozeomat-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "boozeomat-deny",
+      "dirs": 1,
+      "frames": 8,
+      "delay": "2,2,2,2,2,2,2,2"
+    },
+    {
+      "state": "magivend-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "MagiVend",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "39,1,3,1"
+    },
+    {
+      "state": "MagiVend-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "MagiVend-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "med",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "med-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "med-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "med-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "med-deny",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "drug",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "drug-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "drug-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "drug-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "drug-deny",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "wallmed-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "wallmed",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "2,2,2,2"
+    },
+    {
+      "state": "wallmed-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "wallmed-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "wallmed-deny",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "1,8,1,2"
+    },
+    {
+      "state": "wallmed-panel",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tool-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tool",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "44,1,1,1"
+    },
+    {
+      "state": "tool-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tool-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tool-deny",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "engivend-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "engivend",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "28,1,5,1"
+    },
+    {
+      "state": "engivend-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "engivend-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "engivend-deny",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "engi-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "engi",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "46,1,3,1"
+    },
+    {
+      "state": "engi-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "engi-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "engi-deny",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "robotics-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "robotics",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "23,1,3,1"
+    },
+    {
+      "state": "robotics-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "robotics-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "robotics-deny",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "cart-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cart",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "cart-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cart-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cart-deny",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "theater-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "theater",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "45,1,4,1"
+    },
+    {
+      "state": "theater-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "theater-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "theater-deny",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "wardrobe-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "clothes",
+      "dirs": 1,
+      "frames": 8,
+      "delay": "10,1,10,1,10,1,10,1"
+    },
+    {
+      "state": "clothes-deny",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "10,1"
+    },
+    {
+      "state": "clothes-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "clothes-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "liberation-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "liberationstation",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "16,1,1,1"
+    },
+    {
+      "state": "liberationstation-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "liberationstation-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "donksoft-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "snackdonk",
+      "dirs": 1,
+      "frames": 8,
+      "delay": "4,4,4,4,4,4,4,8"
+    },
+    {
+      "state": "snackdonk-deny",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "snackdonk-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "snackdonk-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "syndi",
+      "dirs": 1,
+      "frames": 8,
+      "delay": "5,1,5,1,5,1,5,1"
+    },
+    {
+      "state": "syndi-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "syndi-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "syndi-deny",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "nt-donk",
+      "dirs": 1,
+      "frames": 8,
+      "delay": "5,1,5,1,5,1,5,1"
+    },
+    {
+      "state": "nt-donk-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "nt-donk-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "nt-donk-deny",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "games-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "games",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "17,1,2,1"
+    },
+    {
+      "state": "games-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "games-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bardrobe",
+      "dirs": 1,
+      "frames": 8,
+      "delay": "10,1,10,1,10,1,10,1"
+    },
+    {
+      "state": "bardrobe-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bardrobe-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "secdrobe",
+      "dirs": 1,
+      "frames": 6,
+      "delay": "10,1,10,1,10,1"
+    },
+    {
+      "state": "secdrobe-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "secdrobe-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "chefdrobe",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "10,1,10,1"
+    },
+    {
+      "state": "chefdrobe-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "chefdrobe-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "medidrobe",
+      "dirs": 1,
+      "frames": 6,
+      "delay": "10,1,10,1,10,1"
+    },
+    {
+      "state": "medidrobe-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "medidrobe-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "chemdrobe",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "10,1,10,1"
+    },
+    {
+      "state": "chemdrobe-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "chemdrobe-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "genedrobe",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "10,1,10,1"
+    },
+    {
+      "state": "genedrobe-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "genedrobe-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "virodrobe",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "10,1,10,1"
+    },
+    {
+      "state": "virodrobe-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "virodrobe-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "scidrobe",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "10,1,10,1"
+    },
+    {
+      "state": "scidrobe-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "scidrobe-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "robodrobe",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "10,1,10,1"
+    },
+    {
+      "state": "robodrobe-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "robodrobe-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "chapdrobe",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "10,1,10,1"
+    },
+    {
+      "state": "chapdrobe-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "chapdrobe-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "engidrobe",
+      "dirs": 1,
+      "frames": 6,
+      "delay": "10,1,10,1,10,1"
+    },
+    {
+      "state": "engidrobe-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "engidrobe-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "atmosdrobe",
+      "dirs": 1,
+      "frames": 6,
+      "delay": "10,1,10,1,10,1"
+    },
+    {
+      "state": "atmosdrobe-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "atmosdrobe-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hydrobe",
+      "dirs": 1,
+      "frames": 6,
+      "delay": "10,1,10,1,10,1"
+    },
+    {
+      "state": "hydrobe-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hydrobe-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cargodrobe",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "10,1,10,1"
+    },
+    {
+      "state": "cargodrobe-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cargodrobe-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "curadrobe",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "10,1,10,1"
+    },
+    {
+      "state": "curadrobe-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "curadrobe-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "janidrobe",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "10,1,10,1"
+    },
+    {
+      "state": "janidrobe-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "janidrobe-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lawdrobe",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "10,1,10,1"
+    },
+    {
+      "state": "lawdrobe-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lawdrobe-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "modular-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "modularpc",
+      "dirs": 1,
+      "frames": 32,
+      "delay": "1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "modularpc-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "modularpc-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "modularpc-deny",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,2"
+    },
+    {
+      "state": "detdrobe",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "10,1,10,1"
+    },
+    {
+      "state": "detdrobe-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "detdrobe-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "parts",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "28,1,5,1"
+    },
+    {
+      "state": "parts-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "parts-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "parts-deny",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "parts-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "custom",
+      "dirs": 1,
+      "frames": 10,
+      "delay": "8,7,3,1,4,6,8,5,3,1"
+    },
+    {
+      "state": "custom-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "custom-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "custom-deny",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "custom-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "greed",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "25,1,4,1"
+    },
+    {
+      "state": "greed-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "greed-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "greed-deny",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "greed-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "centdrobe",
+      "dirs": 1,
+      "frames": 6,
+      "delay": "10,1,10,1,10,1"
+    },
+    {
+      "state": "centdrobe-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "centdrobe-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "coroner_drobe",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "10,1,10,1"
+    },
+    {
+      "state": "coroner_drobe-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "coroner_drobe-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "RunicVendor-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "RunicVendor",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "39,1,3,1"
+    },
+    {
+      "state": "RunicVendor-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "RunicVendor-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hotdog-vendor",
+      "dirs": 1,
+      "frames": 10,
+      "delay": "1.1,1.1,1.1,1.1,1.1,1.1,1.1,1.1,1.1,1.1"
+    },
+    {
+      "state": "hotdog-vendor-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hotdog-vendor-deny",
+      "dirs": 1,
+      "frames": 9,
+      "delay": "1.1,1.1,1.1,1.1,1.1,1.1,1.1,1.1,1.1"
+    },
+    {
+      "state": "hotdog-vendor-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hotdog-vendor-light-mask",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "10000,1"
+    },
+    {
+      "state": "cytopro-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cytopro",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "cytopro-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cytopro-off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cytopro-deny",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    }
+  ]
+}

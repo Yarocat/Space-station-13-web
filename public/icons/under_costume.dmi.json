@@ -1,0 +1,330 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "1.2,1.2,1.2,1.2"
+    },
+    {
+      "state": "draculass",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "drfreeze",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "geisha",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "gladiator",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tradition",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "loincloth",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "loincloth_d",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "gondola",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "griffin",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "darkholme",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "kilt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lobster",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "white_mech_suit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "blue_mech_suit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "red_mech_suit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "black_mech_suit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "royal_mech_suit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "royal_mech_suit_alt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "explorer_mech_suit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "explorer_mech_suit_alt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "mummy",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "owl",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pirate",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sailor",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "roman",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "scarecrow",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ysing",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "bsing",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rsing",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "skeleton",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "soviet",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "redcoat",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "villain",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "SwagOutfit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "referee",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "joker",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "JackFrostUniform",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "decker_jumpsuit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "football_suit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "football_number",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "yuri_uniform",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "DutchUniform",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "osi_jumpsuit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tmc_jumpsuit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "gamberson",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "gi_base",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "gi_belt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "gi_goku",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "yukata1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "yukata2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "yukata3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "kimono1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "kimono2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "kimono3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "maid_base",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "maid_frill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "seifuku_ribbon",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "seifuku_skirt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "seifuku_shirt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "green_suit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "green_suit_skirt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "teal_suit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "teal_suit_skirt",
+      "dirs": 1,
+      "frames": 1
+    }
+  ]
+}

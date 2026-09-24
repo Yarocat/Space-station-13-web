@@ -1,0 +1,792 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "pipe_intact",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pipe_exposed",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "mvalve_map-1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "mvalve_map-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "mvalve_map-3",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "mvalve_map-4",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "mvalve_map-5",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "mvalve_off-1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "mvalve_off-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "mvalve_off-1-emissive",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "mvalve_off-2-emissive",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "mvalve_on-1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "mvalve_on-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "mvalve_on-1-emissive",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "mvalve_on-2-emissive",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "mvalve_01-1",
+      "dirs": 4,
+      "frames": 5,
+      "delay": "2,2,2,2,6"
+    },
+    {
+      "state": "mvalve_01-2",
+      "dirs": 4,
+      "frames": 5,
+      "delay": "2,2,2,2,6"
+    },
+    {
+      "state": "mvalve_10-1",
+      "dirs": 4,
+      "frames": 5,
+      "delay": "2,2,2,2,6"
+    },
+    {
+      "state": "mvalve_10-2",
+      "dirs": 4,
+      "frames": 5,
+      "delay": "2,2,2,2,6"
+    },
+    {
+      "state": "dvalve_map-1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "dvalve_map-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "dvalve_map-3",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "dvalve_map-4",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "dvalve_map-5",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "dvalve_off-1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "dvalve_off-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "dvalve_off-1-emissive",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "dvalve_off-2-emissive",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "dvalve_on-1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "dvalve_on-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "dvalve_on-1-emissive",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "dvalve_on-2-emissive",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "dvalve_01-1",
+      "dirs": 4,
+      "frames": 7,
+      "delay": "2,2,2,2,2,2,2"
+    },
+    {
+      "state": "dvalve_01-2",
+      "dirs": 4,
+      "frames": 7,
+      "delay": "2,2,2,2,2,2,2"
+    },
+    {
+      "state": "dvalve_10-1",
+      "dirs": 4,
+      "frames": 7,
+      "delay": "2,2,2,2,2,2,2"
+    },
+    {
+      "state": "dvalve_10-2",
+      "dirs": 4,
+      "frames": 7,
+      "delay": "2,2,2,2,2,2,2"
+    },
+    {
+      "state": "dvalve_nopower-1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "dvalve_nopower-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pump_map-1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pump_map-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pump_map-3",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pump_map-4",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pump_map-5",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pump_on_map-1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pump_on_map-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pump_on_map-3",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pump_on_map-4",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pump_on_map-5",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pump_off-1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pump_off-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pump_on-1",
+      "dirs": 4,
+      "frames": 5,
+      "delay": "1,1,1,1,1"
+    },
+    {
+      "state": "pump_on-1-emissive",
+      "dirs": 4,
+      "frames": 5,
+      "delay": "1,1,1,1,1"
+    },
+    {
+      "state": "pump_on-2",
+      "dirs": 4,
+      "frames": 5,
+      "delay": "1,1,1,1,1"
+    },
+    {
+      "state": "pump_on-2-emissive",
+      "dirs": 4,
+      "frames": 5,
+      "delay": "1,1,1,1,1"
+    },
+    {
+      "state": "volpump_map-1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "volpump_map-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "volpump_map-3",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "volpump_map-4",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "volpump_map-5",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "volpump_on_map-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "volpump_on_map-3",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "volpump_on_map-4",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "volpump_off-1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "volpump_off-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "vpumpoverclock",
+      "dirs": 4,
+      "frames": 11,
+      "delay": "20,20,20,20,20,20,20,20,20,20,20"
+    },
+    {
+      "state": "vpumpoverclock2",
+      "dirs": 4,
+      "frames": 10,
+      "delay": "20,20,20,20,20,20,20,20,20,20"
+    },
+    {
+      "state": "volpump_on-1",
+      "dirs": 4,
+      "frames": 10,
+      "delay": "1,1,1,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "volpump_on-1-emissive",
+      "dirs": 4,
+      "frames": 10,
+      "delay": "1,1,1,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "volpump_on-2",
+      "dirs": 4,
+      "frames": 10,
+      "delay": "1,1,1,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "volpump_on-2-emissive",
+      "dirs": 4,
+      "frames": 10,
+      "delay": "1,1,1,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "passgate_map-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "passgate_map-3",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "passgate_map-4",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "passgate_off-1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "passgate_off-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "passgate_on-1-emissive",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "passgate_off-1-emissive",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "passgate_map-3-emissive",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "passgate_on-1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "passgate_on-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "passgate_on-2-emissive",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "passgate_off-2-emissive",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pvalve_off-1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pvalve_off-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pvalve_off-1-emissive",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pvalve_off-2-emissive",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pvalve_on-1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pvalve_on-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pvalve_on-1-emissive",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pvalve_on-2-emissive",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pvalve_flow-1",
+      "dirs": 4,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "pvalve_flow-2",
+      "dirs": 4,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "pvalve_flow-1-emissive",
+      "dirs": 4,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "pvalve_flow-2-emissive",
+      "dirs": 4,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "pvalve_map-1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pvalve_map-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pvalve_map-3",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pvalve_map-4",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pvalve_map-5",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pvalve_on_map-1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pvalve_on_map-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pvalve_on_map-3",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pvalve_on_map-4",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pvalve_on_map-5",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "tpump_off-1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "tpump_off-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "tpump_on-1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "tpump_on-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "tpump_on-1-emissive",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "tpump_on-2-emissive",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "tpump_map-1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "tpump_map-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "tpump_map-3",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "tpump_map-4",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "tpump_map-5",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "tpump_on_map-1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "tpump_on_map-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "tpump_on_map-3",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "tpump_on_map-4",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "tpump_on_map-5",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "tgate_off-1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "tgate_off-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "tgate_on-1",
+      "dirs": 4,
+      "frames": 6,
+      "delay": "1,1,1,1,1,1"
+    },
+    {
+      "state": "tgate_on-2",
+      "dirs": 4,
+      "frames": 6,
+      "delay": "1,1,1,1,1,1"
+    },
+    {
+      "state": "tgate_on-1-emissive",
+      "dirs": 4,
+      "frames": 6,
+      "delay": "1,1,1,1,1,1"
+    },
+    {
+      "state": "tgate_on-2-emissive",
+      "dirs": 4,
+      "frames": 6,
+      "delay": "1,1,1,1,1,1"
+    },
+    {
+      "state": "tgate_flow-1",
+      "dirs": 4,
+      "frames": 6,
+      "delay": "1,1,1,1,1,1"
+    },
+    {
+      "state": "tgate_flow-2",
+      "dirs": 4,
+      "frames": 6,
+      "delay": "1,1,1,1,1,1"
+    },
+    {
+      "state": "tgate_flow-1-emissive",
+      "dirs": 4,
+      "frames": 6,
+      "delay": "1,1,1,1,1,1"
+    },
+    {
+      "state": "tgate_flow-2-emissive",
+      "dirs": 4,
+      "frames": 6,
+      "delay": "1,1,1,1,1,1"
+    },
+    {
+      "state": "tgate_map-3",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "tgate_map-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "tgate_map-4",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "circ_base",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "circ_anchor",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "fan_0_1",
+      "dirs": 4,
+      "frames": 4,
+      "delay": "1,1,1,1"
+    },
+    {
+      "state": "fan_0_0",
+      "dirs": 4,
+      "frames": 4,
+      "delay": "2,2,2,2"
+    },
+    {
+      "state": "fan_0",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "fan_1_1",
+      "dirs": 4,
+      "frames": 4,
+      "delay": "1,1,1,1"
+    },
+    {
+      "state": "fan_1_0",
+      "dirs": 4,
+      "frames": 4,
+      "delay": "2,2,2,2"
+    },
+    {
+      "state": "fan_1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "flow",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "flow_on",
+      "dirs": 4,
+      "frames": 12,
+      "delay": "1,1,1,1,1,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "flow_on-emissive",
+      "dirs": 4,
+      "frames": 12,
+      "delay": "1,1,1,1,1,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "display",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "display_0",
+      "dirs": 4,
+      "frames": 2,
+      "delay": "3,6"
+    },
+    {
+      "state": "display_1",
+      "dirs": 4,
+      "frames": 2,
+      "delay": "3,6"
+    },
+    {
+      "state": "panel_0",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "panel_1",
+      "dirs": 4,
+      "frames": 1
+    }
+  ]
+}

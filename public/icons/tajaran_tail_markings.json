@@ -1,0 +1,21 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "default_wingler_s",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "default_winglerw_s",
+      "dirs": 4,
+      "frames": 7,
+      "delay": "1,1,1,1,1,1,1,1",
+      "rewind": 1
+    }
+  ]
+}

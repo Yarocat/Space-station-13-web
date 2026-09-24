@@ -1,0 +1,169 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "gauze_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "gauze_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "gauze",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "gauze_imp_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "gauze_imp_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "gauze_imp",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "brutepack_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "brutepack_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "brutepack",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ointment_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ointment_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ointment",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "suture_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "suture_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "suture",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "suture_purp_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "suture_purp_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "suture_purp",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "regen_mesh_closed",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "regen_mesh_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "regen_mesh_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "regen_mesh",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "aloe_mesh_closed",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "aloe_mesh_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "aloe_mesh",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "aloe_mesh_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "aloe_paste",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "poultice_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "poultice_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "poultice",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bandage",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bandage_makeshift",
+      "dirs": 1,
+      "frames": 1
+    }
+  ]
+}

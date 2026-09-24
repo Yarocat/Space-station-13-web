@@ -1,0 +1,1169 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "russianrevolver",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "goldrevolver",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "revolver",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "revolversyndie",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "mateba",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "nagant",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "nagant_suppressor",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c38",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c38_fitz",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c38_police",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c38_blued",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c38_stainless",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c38_trim",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c38_gold",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c38_panther",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c38_peacemaker",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lucky",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "shotgun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "shotgun_toy",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cshotgun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "riotshotgun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "riotshotgun_sawn",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "dshotgun_sawn",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "dshotgun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hookshotgun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "dshotgun_d",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "dshotgun_d_sawn",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "dshotgun_f",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "dshotgun_f_sawn",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "dshotgun_g",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "dshotgun_g_sawn",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "dshotgun_l",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "dshotgun_l_sawn",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "dshotgun_p",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "dshotgun_p_sawn",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ishotgun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ishotgunsling",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ishotgun_sawn",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cycler",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bulldog",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bulldog_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,3"
+    },
+    {
+      "state": "bulldog_mag_empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bulldog_mag_m12gb",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bulldog_mag_m12gsl",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bulldog_mag_m12gs",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bulldog_mag_m12gbc",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bulldog_mag_m12gt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bulldog_mag_m12gf",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bulldog_mag_m12gd",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bulldog_mag_m12gfl",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bulldog_secondary_mag_empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bulldog_secondary_mag_m12gb",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bulldog_secondary_mag_m12gsl",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bulldog_secondary_mag_m12gs",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bulldog_secondary_mag_m12gbc",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bulldog_secondary_mag_m12gt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bulldog_secondary_mag_m12gf",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bulldog_secondary_mag_m12gd",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bulldog_secondary_mag_m12gfl",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ctfshotgun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ctfshotgun_mag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ctfshotgun_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,1"
+    },
+    {
+      "state": "saber",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "saber_toy",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "saber_mag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "saber_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,3"
+    },
+    {
+      "state": "saber_suppressor",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "saber_semi",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "saber_burst",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "wt550",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "wt550_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,3"
+    },
+    {
+      "state": "wt550_mag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "wt550_mag_100",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "wt550_mag_80",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "wt550_mag_60",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "wt550_mag_40",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "wt550_mag_20",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r_toy",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r_burst",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r_semi",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "2,2"
+    },
+    {
+      "state": "c20r_mag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r_mag_100",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r_mag_80",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r_mag_60",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r_mag_40",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r_mag_20",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c20r_suppressor",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tommygun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tommygun_empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tommygun_mag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tommygun_semi",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tommygun_burst",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m90",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m90_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "2,2"
+    },
+    {
+      "state": "m90_mag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m90_burst",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m90_semi",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m90_gren",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "miniuzi",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "miniuzi_empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "miniuzi_mag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "miniuzi_suppressor",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pistol",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pistol_mag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pistol_toy",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pistol_bolt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pistol_bolt_locked",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pistol_suppressor",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pistol_evil",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pistol_evil_mag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pistol_evil_empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pistol_evil_bolt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pistol_evil_bolt_locked",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pistol_evil_suppressor",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pistol_evil_fisher",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pistol_evil_fisher_mag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pistol_evil_fisher_empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pistol_evil_fisher_bolt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pistol_evil_fisher_bolt_locked",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "aps",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "aps_mag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "aps_bolt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "aps_bolt_locked",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "aps_suppressor",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m1911",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m1911_mag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m1911_bolt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m1911_bolt_locked",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "secpistol",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "deagle",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "deagle_mag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "deagle_bolt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "deagle_bolt_locked",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "deagleg",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "deagleg_mag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "deagleg_bolt_locked",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "deagleg_bolt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "deaglecamo",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "deaglecamo_mag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "deaglecamo_bolt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "deaglecamo_bolt_locked",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reagle",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reagle_mag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reagle_bolt_locked",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reagle_bolt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "gyropistol",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "gyropistol_mag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "flatgun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "l6_cyborg",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "l6",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "l6_toy",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "l6_door_closed",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "l6_door_open",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "l6_mag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "l6_mag_100",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "l6_mag_80",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "l6_mag_60",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "l6_mag_40",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "l6_mag_20",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "musket",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "musket_bolt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "musket_bolt_locked",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "musket_prime",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "musket_prime_bolt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "musket_prime_bolt_locked",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "donk_musket",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "donk_musket_bolt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "donk_musket_bolt_locked",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "arg",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "arg_mag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "oldrifle",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,3"
+    },
+    {
+      "state": "oldrifle_mag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "oldrifle_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,1"
+    },
+    {
+      "state": "ctfmarksman",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ctfmarksman_mag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ctfmarksman_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,1"
+    },
+    {
+      "state": "sniper",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sniper_bolt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sniper_bolt_locked",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sniper_suppressor",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sniper_mag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "arcane_barrage",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "chemgun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "chemsprayer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "chemsprayer_janitor",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "riotgun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "syringe_pistol",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "syringe_pistol_empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "syringe_pistol_1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "syringegun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "syringegun_empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "syringegun_1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rapidsyringegun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rapidsyringegun_empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rapidsyringegun_1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rapidsyringegun_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rapidsyringegun_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rapidsyringegun_4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rapidsyringegun_5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rapidsyringegun_6",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "speargun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "speargun_bolt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "speargun_bolt_locked",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "suppressor",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "blowgun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "foamfinger",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "debug",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "debug_mag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cshotgunc",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rebarxbow_empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rebarxbow_bolt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rebarxbow_bolt_locked",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rebarxbow",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rebarxbowsyndie",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rebarxbowsyndie_empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rebarxbowsyndie_bolt_locked",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rebarxbowsyndie_bolt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "smartgun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "smartgun_mag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "smartgun_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,3"
+    },
+    {
+      "state": "smartgun_bolt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "smartgun_bolt_locked",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "chimp_shottie",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "peashooter",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "doorhickey",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "china_lake",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "grenade_launcher",
+      "dirs": 1,
+      "frames": 1
+    }
+  ]
+}

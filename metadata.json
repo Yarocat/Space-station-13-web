@@ -1,0 +1,6 @@
+{
+  "name": "Griefly",
+  "description": "Space Station 13 game simulation, station explorer, map editor, and atmospheric physics simulator ported from the Griefly C++ engine.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

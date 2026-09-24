@@ -1,0 +1,89 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "l_foot",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "r_foot",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "l_leg",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "r_leg",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "groin_m",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "groin_f",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "torso_m",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "torso_f",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "l_arm",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "r_arm",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "l_hand",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "r_hand",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "head_m",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "head_f",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "overlay_husk",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "preview",
+      "dirs": 4,
+      "frames": 1
+    }
+  ]
+}

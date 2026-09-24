@@ -1,0 +1,114 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "spaceold",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hunter",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "freedom",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "spacepirate",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plasmaman_suit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "void",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "space",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "syndicate-orange",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "syndicate",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "syndicate-green",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "syndicate-green-dark",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "syndicate-blue",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "syndicate-black",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "syndicate-black-green",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "syndicate-black-blue",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "syndicate-black-med",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "syndicate-black-orange",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "syndicate-black-red",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "syndicate-contract",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "syndicate-black-engie",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "syndicate-black-white",
+      "dirs": 1,
+      "frames": 1
+    }
+  ]
+}

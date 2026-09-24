@@ -1,0 +1,369 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "analyzer",
+      "dirs": 1,
+      "frames": 8,
+      "delay": "10,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "hilbertsanalyzer",
+      "dirs": 1,
+      "frames": 8,
+      "delay": "10,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "analyzerranged",
+      "dirs": 1,
+      "frames": 8,
+      "delay": "10,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "mining0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "mining1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "first_aid",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "first_aid_pinprick",
+      "dirs": 1,
+      "frames": 12,
+      "delay": "1,1,1,1,1,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "+no_wounds",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "+fail_scan",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "+wound_warn",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "+angry",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1.5,1.5"
+    },
+    {
+      "state": "miner_aid",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "4,4"
+    },
+    {
+      "state": "miner_aid_pinprick",
+      "dirs": 1,
+      "frames": 12,
+      "delay": "1,1,1,1,1,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "surgical_processor",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "+downloaded",
+      "dirs": 1,
+      "frames": 5,
+      "delay": "1.5,1.5,1.5,1.5,1.5"
+    },
+    {
+      "state": "slime_scanner",
+      "dirs": 1,
+      "frames": 3,
+      "delay": "1,1,1"
+    },
+    {
+      "state": "disease_aid",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "disease_aid_pinprick",
+      "dirs": 4,
+      "frames": 12,
+      "delay": "1,1,1,1,1,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "+infected",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "4,4"
+    },
+    {
+      "state": "+not_infected",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "+unknown_scan",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "+rancurous",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "4,4"
+    },
+    {
+      "state": "demo pinprick",
+      "dirs": 1,
+      "frames": 12,
+      "delay": "1,1,1,1,1,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "health",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "health-scan",
+      "dirs": 1,
+      "frames": 12,
+      "delay": "1,1,1,1,1,1,1,1,1,1,1,5"
+    },
+    {
+      "state": "health1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "health_adv",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "health_adv-scan",
+      "dirs": 1,
+      "frames": 12,
+      "delay": "1,1,1,1,1,1,1,1,1,1,1,5"
+    },
+    {
+      "state": "gene",
+      "dirs": 1,
+      "frames": 8,
+      "delay": "1,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "gene_recharging",
+      "dirs": 1,
+      "frames": 8,
+      "delay": "1,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "hydro",
+      "dirs": 1,
+      "frames": 12,
+      "delay": "1,1,1,1,1,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "autopsy_scanner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "host_monitor",
+      "dirs": 1,
+      "frames": 8,
+      "delay": "1,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "forensicnew",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "8,2"
+    },
+    {
+      "state": "geiger_off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "geiger_on_1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "geiger_on_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "geiger_on_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "geiger_on_4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "geiger_on_5",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "2,1"
+    },
+    {
+      "state": "geiger_on_emag",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "10,4"
+    },
+    {
+      "state": "manual_mining",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "advmining0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "advmining1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "fish_analyzer_case",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "fish_analyzer",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "10,0.2"
+    },
+    {
+      "state": "fish_analyzer_map",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "fish_analyzer_emissive",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "10,0.2"
+    },
+    {
+      "state": "inspector",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "experiscanner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "experiscanner_closed",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "t-ray0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "t-ray1",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,10"
+    },
+    {
+      "state": "forensic0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "forensic1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "export scanner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "price tagger",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sales tagger",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "scanner_wand",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "scanner_wand_active",
+      "dirs": 1,
+      "frames": 10,
+      "delay": "1,1,1,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "raptor_dex",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "holosheet",
+      "dirs": 1,
+      "frames": 5,
+      "delay": "3,2,3,2,3"
+    },
+    {
+      "state": "crew_monitor",
+      "dirs": 1,
+      "frames": 7,
+      "delay": "2,2,2,1,1,2,2"
+    },
+    {
+      "state": "bloodscanner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "health_super",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "health_super-scan",
+      "dirs": 1,
+      "frames": 12,
+      "delay": "1,1,1,1,1,1,1,1,1,1,1,5"
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "catwalk-0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-6",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-7",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-8",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-9",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-10",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-11",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-12",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-13",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-14",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-15",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-21",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-23",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-29",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-31",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-38",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-39",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-46",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-47",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-55",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-63",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-74",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-75",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-78",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-79",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-95",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-110",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-111",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-127",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-137",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-139",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-141",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-143",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-157",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-159",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-175",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-191",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-203",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-207",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-223",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-239",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "catwalk-255",
+      "dirs": 1,
+      "frames": 1
+    }
+  ]
+}

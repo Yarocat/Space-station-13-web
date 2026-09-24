@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Goob Station Contributors",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    { "name": "crew", "directions": 4 },
+    { "name": "short", "directions": 4 },
+    { "name": "long", "directions": 4 },
+    { "name": "ponytail", "directions": 4 },
+    { "name": "bob", "directions": 4 },
+    { "name": "afro", "directions": 4 },
+    { "name": "mohawk", "directions": 4 },
+    { "name": "spiky", "directions": 4 }
+  ]
+}

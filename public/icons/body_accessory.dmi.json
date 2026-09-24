@@ -1,0 +1,122 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "accessory_none_s",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "bushy",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "bushy_a",
+      "dirs": 4,
+      "frames": 8,
+      "delay": "2,2,2,2,2,2,2,2"
+    },
+    {
+      "state": "straight",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "straight_a",
+      "dirs": 4,
+      "frames": 8,
+      "delay": "2,2,2,2,2,2,2,2"
+    },
+    {
+      "state": "tiny",
+      "dirs": 4,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "tiny_a",
+      "dirs": 4,
+      "frames": 8,
+      "delay": "2,2,2,2,2,2,2,2"
+    },
+    {
+      "state": "short",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "short_a",
+      "dirs": 4,
+      "frames": 8,
+      "delay": "2,2,2,2,2,2,2,2"
+    },
+    {
+      "state": "straightbushy",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "straightbushy_a",
+      "dirs": 4,
+      "frames": 9,
+      "delay": "2,2,2,2,2,2,2,2,2"
+    },
+    {
+      "state": "winglertail",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "winglertail_a",
+      "dirs": 4,
+      "frames": 7,
+      "delay": "1,1,1,1,1,1,1",
+      "rewind": 1
+    },
+    {
+      "state": "skrell_tail_short",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "skrell_tail",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "skrell_tail_long",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "skrell_tail_xlong",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "skrell_fringetail_short",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "skrell_fringetail",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "skrell_fringetail_long",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "skrell_fringetail_xlong",
+      "dirs": 4,
+      "frames": 1
+    }
+  ]
+}

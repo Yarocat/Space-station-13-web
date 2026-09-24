@@ -1,0 +1,493 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "tube",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "tube_emergency",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "tube-empty",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "tube-burned",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "tube-broken",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "bulb",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "bulb_emergency",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "bulb-broken",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "bulb-empty",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "bulb-burned",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "ltube",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ltube-burned",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ltube-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lbulb",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lbulb-burned",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lbulb-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "floor",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "floor_emergency",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "floor-empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "floor-burned",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "floor-broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tube-construct-stage1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "bulb-construct-stage1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "tube-construct-stage2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "bulb-construct-stage2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "floor-construct-stage1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "floor-construct-stage2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tube-construct-item",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bulb-construct-item",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "flashlight",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "flashlight-on",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "flashdark",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "flashdark-on",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "seclite",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "seclite-on",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "lamp",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lamp-on",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lampgreen",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lampgreen-on",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bananalamp",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bananalamp-on",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "space_lamp",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "space_lamp-on",
+      "dirs": 1,
+      "frames": 6,
+      "delay": "2,2,2,2,2,2"
+    },
+    {
+      "state": "lantern",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lantern-on",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "syndilantern",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "syndilantern-on",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lantern-blue",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lantern-blue-on",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "orb",
+      "dirs": 1,
+      "frames": 8,
+      "delay": "2,2,2,2,2,2,2,2"
+    },
+    {
+      "state": "penlight",
+      "dirs": 4,
+      "frames": 4,
+      "delay": "1,1,1,1"
+    },
+    {
+      "state": "penlight_surgical",
+      "dirs": 4,
+      "frames": 4,
+      "delay": "1,1,1,1"
+    },
+    {
+      "state": "penlight-on",
+      "dirs": 4,
+      "frames": 4,
+      "delay": "1,1,1,1"
+    },
+    {
+      "state": "penlight_surgical-on",
+      "dirs": 4,
+      "frames": 4,
+      "delay": "1,1,1,1"
+    },
+    {
+      "state": "flare-on",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "1,1,1,1"
+    },
+    {
+      "state": "flare-empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "flare",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "torch-on",
+      "dirs": 1,
+      "frames": 6,
+      "delay": "1,1,1,1,1,1"
+    },
+    {
+      "state": "torch-empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "torch",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "slime",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "slime-on",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "glowshroom",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "glowshroom1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "glowshroom2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "glowshroom3",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "glowshroomfold",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "glowcap",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "glowcap1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "glowcap2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "shadowshroom",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "shadowshroom1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "shadowshroom2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "shadowshroom3",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "glowcap3",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "random_glowstick",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "glowstick",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "glowstick-empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "glowstick-on",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "5,5"
+    },
+    {
+      "state": "glowstick-glow",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "floodlight_on",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "floodlight",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "Floodlight Burned",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "Floodlight Broken",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "floodlight_c3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "floodlight_c1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "floodlight_c2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "floor2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tube2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "bulb2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "brownshroom",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "brownshroom1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "brownshroom2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "brownshroom3",
+      "dirs": 4,
+      "frames": 1
+    }
+  ]
+}

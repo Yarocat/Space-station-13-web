@@ -1,0 +1,170 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "purplebartender",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "chaplain",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "chapblack_skirt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "archergarb",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "clown",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "yellowclown",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "orangeclown",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "greenclown",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "blueclown",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "purpleclown",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rainbowclown",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jester_map",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jester_a",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jester_b",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jester_alt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jester_alt_a",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jester_alt_b",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jester_alt_bells",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sexyclown",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "curator",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hydroponics",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hydroponics_skirt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "janitor",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "janitor_skirt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "janimaid",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "mime",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "mime_skirt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sexymime",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cookjorts",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hop",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hop_skirt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "1.2,1.2,1.2,1.2"
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "backpack",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "backpack-captain",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "backpack-clown",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "backpack-mime",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "backpack-security",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "backpack-engineering",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "backpack-cult",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "backpack-hydroponics",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "backpack-medical",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "backpack-chemistry",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "backpack-virology",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "backpack-science",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "backpack-genetics",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "backpack-coroner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "backpack-explorer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "backpack-banner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "backpack-banner_red",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "backpack-banner_blue",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "satchel-norm",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "satchel-leather",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "satchel-flat",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "satchel-flat2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "satchel-captain",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "satchel-security",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "satchel-engineering",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "satchel-hydroponics",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "satchel-medical",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "satchel-chemistry",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "satchel-virology",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "satchel-science",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "satchel-genetics",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "satchel-coroner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "satchel-explorer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "satchel_carrot",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "duffel",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "duffel-captain",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "duffel-clown",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "duffel-engineering",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "duffel-security",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "duffel-hydroponics",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "duffel-medical",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "duffel-chemistry",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "duffel-virology",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "duffel-science",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "duffel-genetics",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "duffel-coroner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "duffel-explorer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "duffel-drone",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "duffel-syndie",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "duffel-syndiemed",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "duffel-syndieammo",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "duffel-curse",
+      "dirs": 1,
+      "frames": 8,
+      "delay": "1,1,20,1,1,5,25,5"
+    },
+    {
+      "state": "snailshell",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bag_of_holding",
+      "dirs": 1,
+      "frames": 6,
+      "delay": "1,1,1,1,1,1"
+    },
+    {
+      "state": "bag_of_holding-inert",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ert_commander",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ert_security",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ert_medical",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ert_engineering",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ert_janitor",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ert_clown",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "giftbag0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "giftbag1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "giftbag2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "henchmen",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "meatmeatmeat",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "messenger",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "messenger_captain",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "messenger_science",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "messenger_genetics",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "messenger_engineering",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "messenger_explorer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "messenger_hydroponics",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "messenger_clown",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "messenger_medical",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "messenger_chemistry",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "messenger_virology",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "messenger_coroner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "messenger_security",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "floortile_backpack",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "backpack-chiefmedical",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "satchel-chiefmedical",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "duffel-chiefmedical",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "messenger_chiefmedical",
+      "dirs": 1,
+      "frames": 1
+    }
+  ]
+}

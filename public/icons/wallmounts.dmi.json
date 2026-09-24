@@ -1,0 +1,294 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "door",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "door_open",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "extinguisher",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "extinguisher_default",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "extinguisher_advanced",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "extinguisher_mini",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "extinguisher_crafted",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "fireaxe",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "axe",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "unlocked",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "locked",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "glass",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "glass1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "glass2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "glass3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "glass4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "glass_raised",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "glass1_raised",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "glass2_raised",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "glass3_raised",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "glass4_raised",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "mechremoval",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "crowbar",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jaws_of_recovery",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jaws",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "gsensor1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "gsensor0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "telescreen",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "telescreenb",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "mflash1",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "2,2"
+    },
+    {
+      "state": "mflash_flash",
+      "dirs": 1,
+      "frames": 3,
+      "delay": "1,1,3"
+    },
+    {
+      "state": "mflash1-p",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "mflash_frame",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "noticeboard",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "notices_1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "notices_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "notices_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "notices_4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "notices_5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "notices_6",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "notices_7",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "notices_8",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "accounting",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "accounting-empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,5"
+    },
+    {
+      "state": "accounting-open",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "accounting-full",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "elevpanel0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "elevpanel1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "elev-light-mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "migniter",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "migniter-p",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "migniter-d",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "migniter-b",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "migniter-spark",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "1,1,1,1"
+    },
+    {
+      "state": "fish_mount",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "fish_mount_item",
+      "dirs": 1,
+      "frames": 1
+    }
+  ]
+}

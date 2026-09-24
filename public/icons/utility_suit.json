@@ -1,0 +1,119 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "fire",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "firesuit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "thermal",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "atmos_firesuit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "atmos_overalls",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bombsuit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bombsuit_sec",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bombsuit_white",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rad",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hazard",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hazard_press",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "caution",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "apron",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "apronchef",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hort_waders",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "overalls",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "surgical",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "beekeeper",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "explorer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "explorer_t",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "explorer_syndicate",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "explorer_syndicate_t",
+      "dirs": 1,
+      "frames": 1
+    }
+  ]
+}

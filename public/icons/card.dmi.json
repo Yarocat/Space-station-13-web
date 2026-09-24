@@ -1,0 +1,891 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "data_1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "data_1-color",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "data_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "data_2-color",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "data_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "data_3-color",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "fingerprint0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "fingerprint1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hack_o_lantern",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "emag",
+      "dirs": 1,
+      "frames": 6,
+      "delay": "1,1,1,1,1,1"
+    },
+    {
+      "state": "doorjack",
+      "dirs": 1,
+      "frames": 9,
+      "delay": "1,1,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "battlecruisercaller",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "card_grey",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "assigned",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "department",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "departmenthead",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "subdepartment",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_unknown",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_assistant",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_botanist",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_bitrunner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_curator",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_lawyer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_chaplain",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_bartender",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_cook",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_janitor",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_clown",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_mime",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_cargotechnician",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_shaftminer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_atmospherictechnician",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_stationengineer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_chemist",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_paramedic",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_psychologist",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_medicaldoctor",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_coroner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_geneticist",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_scientist",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_roboticist",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_warden",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_detective",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_securityofficer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_veteranadvisor",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "card_silver",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "assigned_silver",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "card_platinum",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_headofpersonnel",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "card_gold",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_captain",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "card_centcom",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "assigned_centcom",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_ert_commander",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_centcom",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_deathcommando",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "card_prisoner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_prisoner_1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_prisoner_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_prisoner_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_prisoner_4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_prisoner_5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_prisoner_6",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_prisoner_7",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "card_black",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "assigned_syndicate",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_syndicate",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "retro",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_bitavatar",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "1,1,1,1"
+    },
+    {
+      "state": "trim_recluse",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "budgetcard",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "car_budget",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "srv_budget",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "civ_budget",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sec_budget",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "med_budget",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sci_budget",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "eng_budget",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "card_flame",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "1,1,1,2",
+      "rewind": 1
+    },
+    {
+      "state": "card_rainbow",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "card_carp",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ctf_red",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ctf_blue",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ctf_green",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ctf_yellow",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "card_donk",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "card_donkboss",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "card_roro",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "card_roroboss",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "eldritch",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "RPG NAMES",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "card_rpg",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rpg_assigned",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_lout",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_gardener",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_veteranadventurer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_magistrate",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_paladin",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_tavernkeeper",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_tavernstationhand",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_groundskeeper",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_jester",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_fool",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_steward",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_merchantman",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_adventurer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_aeromancer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_crystallomancer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_alchemist",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_corpserunner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_snakeoilsalesman",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_cleric",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_genemancer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_thaumaturgist",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_necromancer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_jailor",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_thiefcatcher",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_guard",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_guardleader",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_guildquestgiver",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_headcrystallomancer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_archmagister",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_highcleric",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_starduke",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_undertaker",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_royalguard",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_royaladvisor",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "CARDBOARD_TRIMS",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_id",
+      "dirs": 1,
+      "frames": 1,
+      "rewind": 1
+    },
+    {
+      "state": "cardboard_name",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_assignment",
+      "dirs": 1,
+      "frames": 1,
+      "rewind": 1
+    },
+    {
+      "state": "cardboard_frame",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_unknown",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_assistant",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_botanist",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_curator",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_lawyer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_chaplain",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_bartender",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_cook",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_janitor",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_clown",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_mime",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_cargotechnician",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_shaftminer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_atmospherictechnician",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_stationengineer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_chemist",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_paramedic",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_psychologist",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_medicaldoctor",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_coroner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_geneticist",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_scientist",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_roboticist",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_warden",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_detective",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_securityofficer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_headofpersonnel",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_captain",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_ert_commander",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_centcom",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_deathcommando",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_syndicate",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_prisoner_1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_prisoner_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_prisoner_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_prisoner_4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_prisoner_5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_prisoner_6",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_prisoner_7",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_bitrunner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_busser",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trim_homunculus",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cardboard_busser",
+      "dirs": 1,
+      "frames": 1
+    }
+  ]
+}

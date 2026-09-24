@@ -1,0 +1,907 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "berrypile",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "poisonberrypile",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "deathberrypile",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "glowberrypile",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "chilipepper",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ghostchilipepper",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "icepepper",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "eggyplant",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "eggplant",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "soybeans",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "butterbeans",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "koibeans",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "amanita",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "angel",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "libertycap",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plumphelmet",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "walkingmushroom",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "chanterelle",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "glowshroom",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "glowcap",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "shadowshroom",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "carrot",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "parsnip",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cahn'root",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sweetpotato",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "potato",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "potato_active",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "potato_battery",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "potato_wedges",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "corn",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cornBig",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "peppercorn",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "snapcorn",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "corncob",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tomato",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bluetomato",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bluespacetomato",
+      "dirs": 1,
+      "frames": 12,
+      "delay": "40,1,1,1,1,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "bloodtomato",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "killertomato",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "whitebeet",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "redbeet",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "drakebeet",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "logs",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "steellogs",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "grassclump",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "fairygrassclump",
+      "dirs": 1,
+      "frames": 7,
+      "delay": "2,2,2,2,2,2,2"
+    },
+    {
+      "state": "tile_grass",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tile_fairygrass",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "grass",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "fairygrass",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "watermelon",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "watermelonslice",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "watermelonpulp",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "holymelon",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "10,4,4,4"
+    },
+    {
+      "state": "holymelonslice",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "holymelonpulp",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "barrelmelon",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "barrelmelonslice",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "barrelmelonpulp",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "apple",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "appleslice",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "goldapple",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lime",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lemon",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "firelemon",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "firelemon_active",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "1,1,1,1"
+    },
+    {
+      "state": "orange",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "orang",
+      "dirs": 1,
+      "frames": 23,
+      "delay": "0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8"
+    },
+    {
+      "state": "bamboo",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "saltcane",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sugarcane",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cocoapod",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "greengrapes",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "grapes",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cabbage",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pumpkin",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "blumpkin",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "wheat",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "meatwheat",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "carpetclump",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ambrosiavulgaris",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ambrosiadeus",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ambrosia_gaia",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reishi",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cherry",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cherry_bulb",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cherry_bomb",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cherry_bomb_lit",
+      "dirs": 1,
+      "frames": 3,
+      "delay": "1,1,1"
+    },
+    {
+      "state": "bluecherry",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "kudzupod",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "gatfruit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tobacco_leaves",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "stobacco_leaves",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "coffee_arabica",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "coffee_robusta",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tea_aspera_leaves",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tea_astra_leaves",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "oat",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rice",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "vanillapod",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "banana_bunch",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "banana",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "banana_peel",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "banana_peel_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "banana_peel_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "mimana",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "mimana_peel",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "mimana_peel_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "mimana_peel_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bluenana",
+      "dirs": 1,
+      "frames": 12,
+      "delay": "40,1,1,1,1,1,1,1,1,10,1,1"
+    },
+    {
+      "state": "bluenana_peel",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bluenana_peel_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bluenana_peel_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "honey",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "honeycomb",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "greyscale_honey",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "onion",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "onion_red",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "garlic",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pineapple",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cotton",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "durathread",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bungo",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bungopit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "galaxythistle",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "spacemanstrumpet",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jupitercup",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "aloe",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "fraxinella",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "starcactus",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "peas",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "laughpeas",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "worldpeas",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "shrub",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "korta_nut",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "kronkus",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "odious_puffball",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "herbs",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "toechtauese_branch",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bell_pepper",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cannabis",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ocannabis",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "1,1,1,1",
+      "rewind": 1
+    },
+    {
+      "state": "blackcannabis",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "whitecannabis",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "megacannabis",
+      "dirs": 1,
+      "frames": 6,
+      "delay": "1,1,1,1,1,1"
+    },
+    {
+      "state": "greenbean",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jumpingbean",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "0.5,0.5"
+    },
+    {
+      "state": "olive",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plum",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plumb",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lanternfruit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "peanut",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cucumber",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "nettle",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "deathnettle",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rose",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "carbonrose",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "poppy",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "geranium",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "harebell",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lily",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sunflower",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "moonflower",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "novaflower",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "flower_petal",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "flower_receptacle",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "flower_filament",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "flower_anthers",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "map_flower",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "1.2,1.2,1.2,1.2"
+    },
+    {
+      "state": "eyes",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "slippery",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "crunchy",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "mushy",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rubbery",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "glassy",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "spawner",
+      "dirs": 1,
+      "frames": 1
+    }
+  ]
+}

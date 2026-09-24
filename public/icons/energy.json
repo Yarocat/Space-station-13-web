@@ -1,0 +1,1578 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "flight",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "flight_on",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "taser",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "taser_charge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "taser_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "retro",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "retro_charge1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "retro_charge2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "retro_charge3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "retro_charge4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "retro_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "energy",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "energy_kill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "energy_charge_kill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "energy_disable",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "energy_charge_disable",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "energy_stun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "energy_charge_stun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "energy_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "xray",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "xray_charge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "xray_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "energytac",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "energytac_kill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "energytac_charge_kill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "energytac_disable",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "energytac_charge_disable",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "energytac_stun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "energytac_charge_stun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "energytac_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "caplaser",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "caplaser_charge1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "caplaser_charge2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "caplaser_charge3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "caplaser_charge4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "caplaser_empty",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "1,1,1,1"
+    },
+    {
+      "state": "freezegun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "freezegun_charge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "freezegun_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "decloner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "decloner_charge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "decloner_spin",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "1,1,1,1"
+    },
+    {
+      "state": "decloner_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "lasercannon",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lasercannon_charge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lasercannon_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "ionrifle",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ionrifle_charge1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ionrifle_charge2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ionrifle_charge3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ionrifle_charge4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ionrifle_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "pulse",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pulse_charge_DESTROY",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pulse_stun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pulse_charge_stun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pulse_kill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pulse_charge_kill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pulse_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "laser",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "laser_charge1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "laser_charge2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "laser_charge3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "laser_charge4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "laser_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "bluetag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bluetag_charge1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bluetag_charge2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bluetag_charge3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bluetag_charge4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bluetag_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "redtag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "redtag_charge1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "redtag_charge2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "redtag_charge3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "redtag_charge4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "redtag_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "flora",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "flora_yield",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "flora_charge_yield",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "flora_mutation",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "flora_charge_mutation",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "flora_revolution",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "flora_charge_revolution",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "flora_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "advtaser",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "advtaser_stun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "advtaser_charge_stun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "advtaser_disable",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "advtaser_charge_disable",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "advtaser_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "pulse_carbine",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pulse_carbine_DESTROY",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pulse_carbine_charge_DESTROY",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pulse_carbine_stun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pulse_carbine_charge_stun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pulse_carbine_kill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pulse_carbine_charge_kill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pulse_carbine_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "m1911",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m1911_charge_DESTROY",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m1911_charge_stun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m1911_charge_kill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m1911_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "pulse_pistol",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pulse_pistol_DESTROY",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pulse_pistol_charge_DESTROY",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pulse_pistol_stun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pulse_pistol_charge_stun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pulse_pistol_charge_kill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pulse_pistol_kill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pulse_pistol_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "ioncarbine",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ioncarbine_charge1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ioncarbine_charge2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ioncarbine_charge3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ioncarbine_charge4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ioncarbine_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "stunrevolver",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "stunrevolver_charge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "stunrevolver_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "hoslaser",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hoslaser_ion",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hoslaser_charge_ion",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hoslaser_kill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hoslaser_charge_kill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hoslaser_disable",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hoslaser_charge_disable",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hoslaser_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "turretlaser",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "turretlaser_stun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "turretlaser_charge_stun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "turretlaser_kill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "turretlaser_charge_kill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "turretlaser_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "nucgun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "nucgun_kill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "nucgun_charge_kill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "nucgun_disable",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "nucgun_charge_disable",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "nucgun_stun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "nucgun_charge_stun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "nucgun_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "nucgun_fail_0",
+      "dirs": 1,
+      "frames": 5,
+      "delay": "2,2,2,2,2"
+    },
+    {
+      "state": "nucgun_fail_1",
+      "dirs": 1,
+      "frames": 5,
+      "delay": "1,1,1,1,1"
+    },
+    {
+      "state": "nucgun_fail_2",
+      "dirs": 1,
+      "frames": 5,
+      "delay": "1,1,1,1,1"
+    },
+    {
+      "state": "nucgun_fail_3",
+      "dirs": 1,
+      "frames": 5,
+      "delay": "0.5,0.5,0.5,0.5,0.5"
+    },
+    {
+      "state": "crossbow",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "crossbow_empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "crossbow_halloween",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "crossbow_halloween_empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "crossbowlarge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "crossbowlarge_empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "kineticgun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "kineticgun_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "2,2"
+    },
+    {
+      "state": "kineticgun_u",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "kineticgun_h",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "kineticgun_b",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "wormhole_projector",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "wormhole_projector1",
+      "dirs": 1,
+      "frames": 6,
+      "delay": "2,5,1,1,1,1"
+    },
+    {
+      "state": "wormhole_projector2",
+      "dirs": 1,
+      "frames": 6,
+      "delay": "2,5,1,1,1,1"
+    },
+    {
+      "state": "plasmacutter",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "adv_plasmacutter",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "alienpistol",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "alienpistol_charge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "alienpistol_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "instagib",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "instagib_charge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "instagib_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "instagibblue",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "instagibblue_charge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "instagibblue_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "instagibred",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "instagibred_charge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "instagibred_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "instagibgreen",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "instagibgreen_charge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "instagibgreen_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "instagibyellow",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "instagibyellow_charge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "instagibyellow_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "export_cannon",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "export_cannon_empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "mini",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "mini_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "mini-light",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "mini-light_on",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "mini_charge_disable",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "mini_charge_stun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "mini_charge_kill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tesla",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tesla_charge1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tesla_charge2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tesla_charge3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tesla_charge4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tesla_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "gravity_gun",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "1,1,1,1"
+    },
+    {
+      "state": "meteor_gun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "esniper_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "esniper",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "esniper_charge",
+      "dirs": 1,
+      "frames": 26,
+      "delay": "1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "protolaser",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "protolaser_stun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "protolaser_charge_stun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "protolaser_kill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "protolaser_charge_kill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "protolaser_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,1"
+    },
+    {
+      "state": "disabler",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "disabler_charge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "disabler_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "dueling_pistol",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "duel_red",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "duel_green",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "duel_blue",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "shrink_ray",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hellgun",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hellgun_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "5,5"
+    },
+    {
+      "state": "hellgun_charge1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hellgun_charge2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hellgun_charge3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hellgun_charge4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pulse_DESTROY",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "m1911_DESTROY",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "cryopistol",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cryopistol_charge1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cryopistol_charge2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cryopistol_charge3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cryopistol_charge4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cryopistol_empty",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "2,2,2,2"
+    },
+    {
+      "state": "infernopistol",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "infernopistol_charge1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "infernopistol_charge2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "infernopistol_charge3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "infernopistol_charge4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "infernopistol_empty",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "2,4,2,4"
+    },
+    {
+      "state": "musket",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "musket_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "musket_charge4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "musket_charge1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "musket_charge2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "musket_charge3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "musket_prime",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "musket_prime_empty",
+      "dirs": 1,
+      "frames": 9,
+      "delay": "1,1,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "musket_prime_charge4",
+      "dirs": 1,
+      "frames": 9,
+      "delay": "1,1,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "smoothbore",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "smoothbore_empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "smoothbore_charge1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "smoothbore_prime",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "smoothbore_prime_empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "smoothbore_prime_charge1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "smoothbore_prime_charge2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "fisher",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "fisher_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "4,4"
+    },
+    {
+      "state": "laser_carbine",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "laser_carbine_charge1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "laser_carbine_charge2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "laser_carbine_charge3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "laser_carbine_charge4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "laser_carbine_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "disabler_smg",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "disabler_smg_charge1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "disabler_smg_charge2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "disabler_smg_charge3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "disabler_smg_charge4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "disabler_smg_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "4,4"
+    },
+    {
+      "state": "cybersun_s120",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cybersun_s120_charge1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cybersun_s120_charge2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cybersun_s120_charge3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cybersun_s120_charge4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cybersun_s120_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "photon",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "photon_empty",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "3,2,1,1"
+    },
+    {
+      "state": "photon_charge1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "photon_charge2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "photon_charge3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "photon_charge4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "dragnet",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "dragnet_scatter",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "2,2,2,2"
+    },
+    {
+      "state": "dragnet_scatter_extra",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "2,2,2,2"
+    },
+    {
+      "state": "dragnet_charge_scatter",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "dragnet_snare",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "2,2,2,2"
+    },
+    {
+      "state": "dragnet_snare_extra",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "2,2,2,2"
+    },
+    {
+      "state": "dragnet_charge_snare",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "dragnet_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "5,2"
+    },
+    {
+      "state": "laser_pistol",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "laser_pistol_charge1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "laser_pistol_charge2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "laser_pistol_charge3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "laser_pistol_charge4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "laser_pistol_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "laser_soulful",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "laser_soulful_charge1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "laser_soulful_charge2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "laser_soulful_charge3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "laser_soulful_charge4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "laser_soulful_empty",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "3,3"
+    },
+    {
+      "state": "repeater",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "repeater_charge1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "repeater_empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "kineticgun_evil",
+      "dirs": 1,
+      "frames": 1
+    }
+  ]
+}

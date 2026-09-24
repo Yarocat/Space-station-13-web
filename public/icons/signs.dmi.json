@@ -1,0 +1,706 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "font_sheet",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "template",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "doors",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "space",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "deathsposal",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bodysposal",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pods",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "exodrone",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "evac",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "drop",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "custodian1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "custodian2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "engine",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "atmos",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cargo",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "security",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "holy",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "restroom",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "examroom",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "xenobio1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "xenobio2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "science1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "science2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "testchamber",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "gene",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "med",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "chemistry1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "chemistry2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hydro1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hydro2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hydro3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "psychology",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lawyer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "court",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "firingrange",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "telecomms",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "telecomms2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "vault",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "mait1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "mait2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "radshelter",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "aiupload",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "chapel",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "morgue",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "botany",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pharmacy",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "medbay",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "viro",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rndserver",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "aisat",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "restaurant",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bar",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bluecross2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bluecross",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bio",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "xeno_warning",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cold",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "heat",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "gasmask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "nanotrasen",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "nosmoking2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "nosmoking",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "yessmoking",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "fire",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "radiation",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "securearea",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "shock",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "explosives",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "explosives2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "goldenplaque",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "blankplaque",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "commission_nt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "kiddieplaque",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "commission_commie",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "commission_syndie",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "atmosplaque",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "map-left",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "map-right",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "map-left-MS",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "map-right-MS",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "map-pubby",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "safety",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "clock",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "direction_eng",
+      "dirs": 8,
+      "frames": 1
+    },
+    {
+      "state": "direction_supply",
+      "dirs": 8,
+      "frames": 1
+    },
+    {
+      "state": "direction_sci",
+      "dirs": 8,
+      "frames": 1
+    },
+    {
+      "state": "direction_sec",
+      "dirs": 8,
+      "frames": 1
+    },
+    {
+      "state": "direction_med",
+      "dirs": 8,
+      "frames": 1
+    },
+    {
+      "state": "direction_evac",
+      "dirs": 8,
+      "frames": 1
+    },
+    {
+      "state": "direction_bridge",
+      "dirs": 8,
+      "frames": 1
+    },
+    {
+      "state": "direction_dorms",
+      "dirs": 8,
+      "frames": 1
+    },
+    {
+      "state": "direction_lavaland",
+      "dirs": 8,
+      "frames": 1
+    },
+    {
+      "state": "direction_arrival",
+      "dirs": 8,
+      "frames": 1
+    },
+    {
+      "state": "direction_vault",
+      "dirs": 8,
+      "frames": 1
+    },
+    {
+      "state": "direction_upload",
+      "dirs": 8,
+      "frames": 1
+    },
+    {
+      "state": "roomnum",
+      "dirs": 8,
+      "frames": 1
+    },
+    {
+      "state": "monkey_painting",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "backing",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "frame-empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "frame-fruit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "frame-monkey",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "frame-rat",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "frame-ratvar",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "frame-overlay",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "frame-content-overlay",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "frame-large-empty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "nanotrasen_sign1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "nanotrasen_sign2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "nanotrasen_sign3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "nanotrasen_sign4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "nanotrasen_sign5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "xenobio-guide",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "chemdiamond",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "1.2,1.2,1.2,1.2"
+    },
+    {
+      "state": "gym-left",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "gym-right",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "gymmirror-left",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "gymmirror-right",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "calendar",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "days_0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "days_1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "days_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "days_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "days_4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "days_5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "days_6",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "days_7",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "days_8",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "days_9",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "basketball_scorecard",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "picket",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "eldritch_painting_weeping",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "eldritch_painting_beauty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "eldritch_painting_vines",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "eldritch_painting_rust",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "eldritch_painting_desire",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "eldritch_painting_debug",
+      "dirs": 1,
+      "frames": 10,
+      "delay": "1,1,1,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "eyechart",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tram_plate",
+      "dirs": 1,
+      "frames": 1
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "urinal",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "toilet00",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "toilet10",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "toilet01",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "toilet11",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "toilet-water",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "toilet-water-flick",
+      "dirs": 4,
+      "frames": 5,
+      "delay": "8,6,4,3,20"
+    },
+    {
+      "state": "shower",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "shower_frame",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "water",
+      "dirs": 4,
+      "frames": 4,
+      "delay": "1,1,1,1"
+    },
+    {
+      "state": "mist",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rubberducky",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sink",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "sink_greyscale",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "sink_frame",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "sink_gasstation",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "sink_alt",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "puddle",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "puddle-oil",
+      "dirs": 1,
+      "frames": 9,
+      "delay": "1,6,2,1,1,1,1,3,4"
+    },
+    {
+      "state": "puddle-oil-splash",
+      "dirs": 1,
+      "frames": 5,
+      "delay": "3,2,4,3,3"
+    },
+    {
+      "state": "puddle-splash",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "5,5"
+    },
+    {
+      "state": "mirror",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "mirror_mask",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "mirror_broke",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "magic_mirror",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "4,1,2,1"
+    },
+    {
+      "state": "plunger",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plunger_layer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_plunger",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "reinforced_plunger_layer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bathroom-closed",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bathroom-open",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bounty-closed",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bounty-open",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cur_fancy-open",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cur_fancy-closed",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "toiletbong",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "toiletbong_overlay",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "urinalcake",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "urinalcake_squish",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "soap",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "soapsyndie",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "soapnt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "soapgibs",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "soapdeluxe",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "soapomega",
+      "dirs": 1,
+      "frames": 8,
+      "delay": "1,1,1,1,1,1,1,1,1"
+    }
+  ]
+}

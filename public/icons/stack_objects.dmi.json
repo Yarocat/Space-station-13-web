@@ -1,0 +1,1175 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "sheet-metal",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-metal_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-metal_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-plasteel",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-plasteel_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-plasteel_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-titanium",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-titanium_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-titanium_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-plastitanium",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-plastitanium_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-plastitanium_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-brass",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-brass_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-brass_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-runed",
+      "dirs": 1,
+      "frames": 8,
+      "delay": "50,1,1,1,1,1,1,1",
+      "rewind": 1
+    },
+    {
+      "state": "sheet-runed_2",
+      "dirs": 1,
+      "frames": 8,
+      "delay": "50,1,1,1,1,1,1,1",
+      "rewind": 1
+    },
+    {
+      "state": "sheet-runed_3",
+      "dirs": 1,
+      "frames": 8,
+      "delay": "50,1,1,1,1,1,1,1",
+      "rewind": 1
+    },
+    {
+      "state": "sheet-gold",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-gold_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-gold_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-uranium",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-uranium_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-uranium_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-silver",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-silver_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-silver_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-metalhydrogen",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-metalhydrogen_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-metalhydrogen_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-adamantine",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-adamantine_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-adamantine_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-runite",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-runite_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-runite_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-bananium",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-bananium_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-bananium_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-mythril",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-glass",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-glass_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-glass_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-rglass",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-rglass_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-rglass_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-pglass",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-pglass_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-pglass_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-prglass",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-prglass_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-prglass_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-titaniumglass",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-titaniumglass_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-titaniumglass_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-plastitaniumglass",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-plastitaniumglass_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-plastitaniumglass_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-plastic",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-plastic_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-plastic_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-paper",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-paper_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-paper_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-diamond",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-diamond_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-diamond_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bluespace_crystal",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "polycrystal",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "telecrystal",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "telecrystal_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "telecrystal_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-plasma",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-plasma_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-plasma_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "shuttlerods",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "shuttlerods-1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "shuttlerods-2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "shuttlerods-3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "shuttlerods-4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "shuttlerods-5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rods",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rods-1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rods-2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rods-3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rods-4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rods-5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lavarods",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lavarods-1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lavarods-2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lavarods-3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lavarods-4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lavarods-5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-wood",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-wood_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-wood_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-card",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-card_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-card_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-pizza",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-pizza_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-pizza_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sandbag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sandbags",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-wetleather",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-wetleather_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-wetleather_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-leather",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-leather_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-leather_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-hairlesshide",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-hairlesshide_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-hairlesshide_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-hide",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-hide_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-hide_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-cloth",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-cloth_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-cloth_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "wrap_paper",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "deliveryPaper",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "c_tube",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "wrap_paper_base",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "wrap_paper_ribbon",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-xeno",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-cat",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-monkey",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-lizard",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-corgi",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-mothroach",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-gondola",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-carp",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "goliath_hide",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "goliath_hide_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "goliath_hide_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "dragon_hide",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "dragon_hide_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "dragon_hide_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "polar_bear_hide_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "polar_bear_hide_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "polar_bear_hide",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bone",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bone_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bone_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-meat",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-meat_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-meat_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-sandstone",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-sandstone_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-sandstone_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-snow",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-snow_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-snow_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plastitanium-window-fill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pod-window-fill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plastitanium-wall-fill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pod-wall-fill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "survivalpod-wall-fill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "redpod-wall-fill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-wool_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-wool",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-wool_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-cotton",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-cotton_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-cotton_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-durathread",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-durathread_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-durathread_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-durathreadraw",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-durathreadraw_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-durathreadraw_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-bamboo",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-bamboo_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-bamboo_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-greatergem",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-lessergem",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hot-ice",
+      "dirs": 1,
+      "frames": 9,
+      "delay": "1,1,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "hot-ice_2",
+      "dirs": 1,
+      "frames": 9,
+      "delay": "1,1,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "hot-ice_3",
+      "dirs": 1,
+      "frames": 9,
+      "delay": "1,1,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "ammonia_crystal",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ammonia_crystal_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ammonia_crystal_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "zaukerite",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "zaukerite_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "zaukerite_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "arcade-ticket",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "arcade-ticket_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "arcade-ticket_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "arcade-ticket_4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "circuit_mess",
+      "dirs": 1,
+      "frames": 9,
+      "delay": "5,2,1,5,2,1,1,4,4"
+    },
+    {
+      "state": "cannonballs",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cannonballs_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cannonballs_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cannonballs_4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cannonballs_5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cannonballs_6",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cannonballs_7",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cannonballs_8",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cannonballs_9",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cannonballs_10",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cannonballs_11",
+      "dirs": 1,
+      "frames": 1,
+      "movement": 1
+    },
+    {
+      "state": "cannonballs_12",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cannonballs_13",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cannonballs_14",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "emp_cannonballs",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "emp_cannonballs_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "emp_cannonballs_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "emp_cannonballs_4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "biggest_cannonballs",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "biggest_cannonballs_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "biggest_cannonballs_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "biggest_cannonballs_4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "biggest_cannonballs_5",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trashballs",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trashballs_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trashballs_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trashballs_4",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "coil",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "coil2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "coil1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pipecleaner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pipecleaner2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pipecleaner1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "wire",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "wire2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "wire1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bear_hide",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bear_hide_2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bear_hide_3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "telepolycrystal",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sheet-bileworm",
+      "dirs": 1,
+      "frames": 1
+    }
+  ]
+}

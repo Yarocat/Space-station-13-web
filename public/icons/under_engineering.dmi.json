@@ -1,0 +1,60 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "atmos",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "atmos_skirt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "engine",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "engine_skirt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hazard",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "chiefengineer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "chief_skirt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ceturtle",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ceturtle_skirt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "1.2,1.2,1.2,1.2"
+    }
+  ]
+}

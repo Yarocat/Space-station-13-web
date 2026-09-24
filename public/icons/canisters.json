@@ -1,0 +1,272 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "oxygen",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "generic",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "anesthetic",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "anesthetic_warning",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plasma",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "emergency",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "emergency_engi",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "emergency_double",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "emergency_tst",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "oxygen_f",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "oxygen_fr",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "canister",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jetpack",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jetpack-on",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "2,2"
+    },
+    {
+      "state": "jetpack-mini",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jetpack-mini-on",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "2,2",
+      "rewind": 1
+    },
+    {
+      "state": "jetpack-void",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jetpack-void-on",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "2,2"
+    },
+    {
+      "state": "jetpack-black",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jetpack-black-on",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "2,2"
+    },
+    {
+      "state": "bomb_assembly",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jetpack-mining",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jetpack-mining-on",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "2,2"
+    },
+    {
+      "state": "plasmaman_tank",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plasmaman_tank_belt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jetpack-captain",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jetpack-captain-on",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "2,2"
+    },
+    {
+      "state": "jetpack-sec",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jetpack-sec-on",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "2,2"
+    },
+    {
+      "state": "jetpack-improvised",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "flightpack",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "flightpack_off",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "flightpack_on",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "1,1,1,1",
+      "rewind": 1
+    },
+    {
+      "state": "flightpack_boost",
+      "dirs": 1,
+      "frames": 3,
+      "delay": "1,1,1",
+      "rewind": 1
+    },
+    {
+      "state": "holder",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "holder_oxygen",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "holder_generic",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "holder_anesthetic",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "holder_emergency",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "holder_emergency_engi",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "holder_oxygen_f",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "holder_oxygen_fr",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "holder_extinguisher",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "holder_foam_extinguisher",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "holder_skub",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "jetpack-improvised-on",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "1,1"
+    },
+    {
+      "state": "emergency_clown",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "holder_emergency_clown",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plasmarefill",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "holder_anesthetic_warning",
+      "dirs": 1,
+      "frames": 1
+    }
+  ]
+}

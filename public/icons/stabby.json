@@ -1,0 +1,81 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "carrotshiv",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "parsnipshiv",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rootshiv",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "shiv",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plasmashiv",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "titaniumshiv",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plastitaniumshiv",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "survivalknife",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bone_dagger",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "buckknife",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rainbowknife",
+      "dirs": 1,
+      "frames": 6,
+      "delay": "1,1,1,1,1,1"
+    },
+    {
+      "state": "huntingknife",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rootdagger",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "envyknife",
+      "dirs": 1,
+      "frames": 6,
+      "delay": "2,2,2,2,2,2"
+    }
+  ]
+}

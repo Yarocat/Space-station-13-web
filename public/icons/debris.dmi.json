@@ -1,0 +1,211 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "large",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "medium",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "small",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tiny",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "plasmalarge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plasmamedium",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plasmasmall",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plasmatiny",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "titaniumlarge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "titaniummedium",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "titaniumsmall",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "titaniumtiny",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "plastitaniumlarge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plastitaniummedium",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plastitaniumsmall",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plastitaniumtiny",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "shards",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "paper_shreds",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pinata_shreds",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "syndie_pinata_shreds",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "donk_pinata_shreds",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "garbage",
+      "dirs": 1,
+      "frames": 6,
+      "delay": "1,1,1,1,1,1"
+    },
+    {
+      "state": "ants",
+      "dirs": 1,
+      "frames": 17,
+      "delay": "1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10"
+    },
+    {
+      "state": "ants_2",
+      "dirs": 1,
+      "frames": 7,
+      "delay": "1,1,1,1,1,1,1"
+    },
+    {
+      "state": "ants_3",
+      "dirs": 1,
+      "frames": 7,
+      "delay": "1,1,1,1,1,1,1"
+    },
+    {
+      "state": "ants_4",
+      "dirs": 1,
+      "frames": 7,
+      "delay": "1,1,1,1,1,1,1"
+    },
+    {
+      "state": "ants_light",
+      "dirs": 1,
+      "frames": 17,
+      "delay": "1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10"
+    },
+    {
+      "state": "ants_2_light",
+      "dirs": 1,
+      "frames": 7,
+      "delay": "1,1,1,1,1,1,1"
+    },
+    {
+      "state": "ants_3_light",
+      "dirs": 1,
+      "frames": 7,
+      "delay": "1,1,1,1,1,1,1"
+    },
+    {
+      "state": "ants_4_light",
+      "dirs": 1,
+      "frames": 7,
+      "delay": "1,1,1,1,1,1,1"
+    },
+    {
+      "state": "fire_ants",
+      "dirs": 1,
+      "frames": 7,
+      "delay": "1,1,1,1,1,1,1"
+    },
+    {
+      "state": "fire_ants_light",
+      "dirs": 1,
+      "frames": 7,
+      "delay": "1,1,1,1,1,1,1"
+    },
+    {
+      "state": "pile_bandages",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ash",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "big_ash",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rubble_bounce",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "1,1,1,1"
+    },
+    {
+      "state": "rubble",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "concrete_dust",
+      "dirs": 1,
+      "frames": 1
+    }
+  ]
+}

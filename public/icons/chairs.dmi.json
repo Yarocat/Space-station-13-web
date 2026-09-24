@@ -1,0 +1,190 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "stool",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "chair",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "chair_greyscale",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "chair_toppled",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "chair_greyscale_toppled",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "echair0",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "echair1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "echair_over",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "echair_shock",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "officechair_dark",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "officechair_white",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "wooden_chair",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "wooden_chair_toppled",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "wooden_chair_wings",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "wooden_chair_wings_toppled",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "comfychair",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "comfychair_armrest",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "carp_chair",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "carp_chair_armrest",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "stool_toppled",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "chairold",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "bar",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "bar_toppled",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "chair_hades",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "chair_hades_slide",
+      "dirs": 1,
+      "frames": 15,
+      "delay": "1,1,1,1,1,1,1,1,1,1,1,1,1,1,1"
+    },
+    {
+      "state": "brass_chair",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "shuttle_chair",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "shuttle_chair_armrest",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "plastic_chair",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "folded_chair",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "bamboo_stool",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "bamboo_stool_toppled",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "brass_chair_armrest",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "shuttle_chair_up",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "shuttle_chair_down_front",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "shuttle_chair_down_behind",
+      "dirs": 4,
+      "frames": 1
+    }
+  ]
+}

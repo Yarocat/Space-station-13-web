@@ -1,0 +1,89 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "solar_panel_glass-b",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "solar_panel_plasmaglass-b",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "solar_panel_titanium glass-b",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "solar_panel_plastitanium glass-b",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "solar_panel_glass",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "solar_panel_glass_edge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sp_base",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tracker",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tracker_edge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tracker_base",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "solar_panel_plasmaglass",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "solar_panel_plasmaglass_edge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "solar_panel_titanium glass",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "solar_panel_titanium glass_edge",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "solar_panel_plastitanium glass",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "solar_panel_plastitanium glass_edge",
+      "dirs": 1,
+      "frames": 1
+    }
+  ]
+}

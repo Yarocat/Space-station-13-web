@@ -1,0 +1,348 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "inje_map-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "inje_map-3",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "inje_map-4",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "inje_on",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "inje_on-emissive",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "inje_off",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "inje_off-emissive",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "inje_inject",
+      "dirs": 4,
+      "frames": 2,
+      "delay": "2,5"
+    },
+    {
+      "state": "inje_inject-emissive",
+      "dirs": 4,
+      "frames": 2,
+      "delay": "2,5"
+    },
+    {
+      "state": "inje_cap",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "connector_map-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "connector_map-3",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "connector_map-4",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "connector",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "connector_cap",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "he1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "he0",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "he_map-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "he_map-4",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "vent_map-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "vent_map-3",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "vent_map-4",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "vent_map_on-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "vent_map_on-3",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "vent_map_on-4",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "vent_map_siphon_on-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "vent_map_siphon_on-3",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "vent_map_siphon_on-4",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "vent_off",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "vent_welded",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "vent_out-starting",
+      "dirs": 4,
+      "frames": 12,
+      "delay": "2,1.8,1.5,1.3,1,0.8,0.6,0.5,0.4,0.3,0.2,0.1"
+    },
+    {
+      "state": "vent_out",
+      "dirs": 4,
+      "frames": 4,
+      "delay": "0.8,0.8,0.8,0.8"
+    },
+    {
+      "state": "overclocked",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "5,5"
+    },
+    {
+      "state": "broken",
+      "dirs": 1,
+      "frames": 2,
+      "delay": "5,5"
+    },
+    {
+      "state": "vent_in-starting",
+      "dirs": 4,
+      "frames": 12,
+      "delay": "2,1.8,1.5,1.3,1,0.8,0.6,0.5,0.4,0.3,0.2,0.1"
+    },
+    {
+      "state": "vent_in",
+      "dirs": 4,
+      "frames": 4,
+      "delay": "0.8,0.8,0.8,0.8"
+    },
+    {
+      "state": "vent_cap",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "scrub_map-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "scrub_map-3",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "scrub_map-4",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "scrub_map_on-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "scrub_map_on-3",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "scrub_map_on-4",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "scrub_on",
+      "dirs": 4,
+      "frames": 24,
+      "delay": "0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8"
+    },
+    {
+      "state": "scrub_off",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "scrub_cap",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "scrub_welded",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "scrub_wide",
+      "dirs": 4,
+      "frames": 8,
+      "delay": "0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8"
+    },
+    {
+      "state": "scrub_purge",
+      "dirs": 4,
+      "frames": 8,
+      "delay": "2,0.4,0.4,0.4,0.4,0.4,0.4,0.4"
+    },
+    {
+      "state": "dpvent_map-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "dpvent_map-3",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "dpvent_map-4",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "dpvent_map_on-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "dpvent_map_on-3",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "dpvent_map_on-4",
+      "dirs": 4,
+      "frames": 1,
+      "movement": 1
+    },
+    {
+      "state": "dpvent_cap",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "passive_vent",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "passive_vent_map-2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "passive_vent_map-3",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "passive_vent_map-4",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "vent_out-shutdown",
+      "dirs": 4,
+      "frames": 16,
+      "delay": "1,1,1,1,0.1,0.2,0.3,0.4,0.5,0.6,0.8,1,1.3,1.5,1.8,2"
+    },
+    {
+      "state": "vent_in-shutdown",
+      "dirs": 4,
+      "frames": 16,
+      "delay": "1,1,1,1,0.1,0.2,0.3,0.4,0.5,0.6,0.8,1,1.3,1.5,1.8,2"
+    },
+    {
+      "state": "airlock_pump",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pipe_intact",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "pipe_exposed",
+      "dirs": 4,
+      "frames": 1
+    }
+  ]
+}

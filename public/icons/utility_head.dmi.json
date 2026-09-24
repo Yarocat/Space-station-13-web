@@ -1,0 +1,179 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "hardhat0_yellow",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hardhat1_yellow",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hardhat0_orange",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hardhat1_orange",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hardhat0_red",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hardhat1_red",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hardhat0_purple",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hardhat1_purple",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hardhat0_white",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hardhat1_white",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hardhat0_dblue",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hardhat1_dblue",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "weldvisor",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hardhat0_atmos",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hardhat1_atmos",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "weldvisor_atmos",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "welding",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "weldingup",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bombsuit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bombsuit_sec",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bombsuit_white",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rad",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "explorer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "beekeeper",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "surgicalcap",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "surgicalcapwine",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "surgicalcapgreen",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "surgicalcapcmo",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "chef",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "surgicalcapblack",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "explorer_syndicate",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "headmirror",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rad_dirt",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bomb_dirt",
+      "dirs": 1,
+      "frames": 1
+    }
+  ]
+}

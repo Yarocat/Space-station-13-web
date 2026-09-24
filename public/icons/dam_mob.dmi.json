@@ -1,0 +1,819 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "blank",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "blank2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "human_chest_01",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_head_01",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_r_arm_01",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_l_arm_01",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_r_leg_01",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_l_leg_01",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_chest_02",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_head_02",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_r_arm_02",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_l_arm_02",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_r_leg_02",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_l_leg_02",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_chest_03",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_head_03",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_r_arm_03",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_l_arm_03",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_r_leg_03",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_l_leg_03",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_chest_10",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_head_10",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_r_arm_10",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_l_arm_10",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_r_leg_10",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_l_leg_10",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_chest_20",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_head_20",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_r_arm_20",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_l_arm_20",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_r_leg_20",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_l_leg_20",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_chest_30",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_head_30",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_r_arm_30",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_l_arm_30",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_r_leg_30",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_l_leg_30",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_chest_10_overlay",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_head_10_overlay",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_r_arm_10_overlay",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_l_arm_10_overlay",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_r_leg_10_overlay",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_l_leg_10_overlay",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_head_20_overlay",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_l_arm_20_overlay",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_r_leg_20_overlay",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_l_leg_20_overlay",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_chest_30_overlay",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_head_30_overlay",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_r_arm_30_overlay",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_l_arm_30_overlay",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_r_leg_30_overlay",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "human_l_leg_30_overlay",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_chest_01",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_head_01",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_r_arm_01",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_l_arm_01",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_r_leg_01",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_l_leg_01",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_chest_02",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_head_02",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_r_arm_02",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_l_arm_02",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_r_leg_02",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_l_leg_02",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_chest_03",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_head_03",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_r_arm_03",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_l_arm_03",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_r_leg_03",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_l_leg_03",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_chest_10",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_head_10",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_r_arm_10",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_l_arm_10",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_r_leg_10",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_l_leg_10",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_chest_20",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_head_20",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_r_arm_20",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_l_arm_20",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_r_leg_20",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_l_leg_20",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_chest_30",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_head_30",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_r_arm_30",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_l_arm_30",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_r_leg_30",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "synth_l_leg_30",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_chest_01",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_head_01",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_r_arm_01",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_l_arm_01",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_r_leg_01",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_l_leg_01",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_chest_02",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_head_02",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_r_arm_02",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_l_arm_02",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_r_leg_02",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_l_leg_02",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_chest_03",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_head_03",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_r_arm_03",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_l_arm_03",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_r_leg_03",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_l_leg_03",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_chest_10",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_head_10",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_r_arm_10",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_l_arm_10",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_r_leg_10",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_l_leg_10",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_chest_20",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_head_20",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_r_arm_20",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_l_arm_20",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_r_leg_20",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_l_leg_20",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_chest_30",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_head_30",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_r_arm_30",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_l_arm_30",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_r_leg_30",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "monkey_l_leg_30",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_chest_01",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_head_01",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_r_arm_01",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_l_arm_01",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_r_leg_01",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_l_leg_01",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_chest_02",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_head_02",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_r_arm_02",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_l_arm_02",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_r_leg_02",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_l_leg_02",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_chest_03",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_head_03",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_r_arm_03",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_l_arm_03",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_r_leg_03",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_l_leg_03",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_chest_10",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_head_10",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_r_arm_10",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_l_arm_10",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_r_leg_10",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_l_leg_10",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_chest_20",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_head_20",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_r_arm_20",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_l_arm_20",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_r_leg_20",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_l_leg_20",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_chest_30",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_head_30",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_r_arm_30",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_l_arm_30",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_r_leg_30",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "robotic_l_leg_30",
+      "dirs": 4,
+      "frames": 1
+    }
+  ]
+}

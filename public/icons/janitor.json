@@ -1,0 +1,540 @@
+{
+  "info": {
+    "width": 32,
+    "height": 32,
+    "version": 4
+  },
+  "states": [
+    {
+      "state": "cleaner",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sprayer_large",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "mop",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "mopbucket",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "mopbucket_water",
+      "dirs": 1,
+      "frames": 3,
+      "delay": "2,2,2"
+    },
+    {
+      "state": "lightreplacer-emagged",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lightreplacer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cone",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "4no_raisins",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "candy",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "chips",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "shrimp_chips",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "boritos",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "popcorn",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cheesie_honkers",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sosjerky",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "syndi_cakes",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "plate",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pistachios_pack",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "semki_pack",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tray",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trashbag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trashbag1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trashbag2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "trashbag3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cart",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "cart_water",
+      "dirs": 4,
+      "frames": 3,
+      "delay": "2,2,2"
+    },
+    {
+      "state": "cart_garbage",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "cart_bluespace_garbage",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "cart_mop",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "cart_spray",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "cart_sign1",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "cart_sign2",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "cart_sign3",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "cart_sign4",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "cart_replacer",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "sodawater",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "tonic",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cola",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "purple_can",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ice_tea_can",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "energy_drink",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "monkey_energy",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "thirteen_loko",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "space_mountain_wind",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "dr_gibb",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "starkist",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "space-up",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lemon-lime",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "shamblers",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "shamblerseldritch",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "air",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "laughter",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sol_dry",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "mister",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "waterbackpack",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "advmop",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bluetrashbag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bluetrashbag1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bluetrashbag2",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bluetrashbag3",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "smmop",
+      "dirs": 1,
+      "frames": 7,
+      "delay": "1,1,2,1,2,1,1"
+    },
+    {
+      "state": "adv_smmop",
+      "dirs": 1,
+      "frames": 4,
+      "delay": "1,1,2,1"
+    },
+    {
+      "state": "rainbowbpack",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "rainbowmister",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "energybar",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "moth_ration",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cart_broom",
+      "dirs": 4,
+      "frames": 1
+    },
+    {
+      "state": "broom0",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "broom1",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "peanuts",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "cnds",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "spacers_sidekick",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sunseeds",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ready_donk",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "boritospurple",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "boritosgreen",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "boritosred",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "empty_salty_popcorn",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "empty_caramel_popcorn",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "pillow_tag",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lightreplacer_blue",
+      "dirs": 1,
+      "frames": 3,
+      "delay": "1,1,1"
+    },
+    {
+      "state": "lightreplacer_blue-emagged",
+      "dirs": 1,
+      "frames": 3,
+      "delay": "1,1,1"
+    },
+    {
+      "state": "access_key",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "hot_shots",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sticko",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sticko_matcha",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sticko_nutty",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sticko_pineapple",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "sticko_yuyake",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "shok_roks",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "shok_roks_citrus",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "shok_roks_berry",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "shok_roks_tropical",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "shok_roks_lanternfruit",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "wellcheers",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "space_beer",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "ebisu",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "shimauma",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "moonlabor",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "volt_energy",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "melon_soda",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "bucket",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "woodbucket",
+      "dirs": 1,
+      "frames": 1
+    },
+    {
+      "state": "lightreplacer_high",
+      "dirs": 1,
+      "frames": 1
+    }
+  ]
+}
